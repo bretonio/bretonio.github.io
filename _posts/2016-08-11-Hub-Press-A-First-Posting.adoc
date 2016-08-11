@@ -9,10 +9,10 @@ I am an aging poetry major who, having worked in technical writing and other fie
 
 https://www.questia.com/library/745252/words-into-type-a-guide-in-the-preparation-of-manuscripts[Words Into Type].
 
-An https://www.archlinux.org/[Arch Linux] man myself, I recently installed https://www.ampps.com[AMPPS] on the crappy Windows XP box at my place of internment and am reveling in the opportunity to auto-install -- count them -- 401 flavors of what in post-modernity we are wont to call content management. 
+An https://www.archlinux.org/[Arch Linux] man myself, I recently installed https://www.ampps.com[AMPPS] on the crappy Windows XP box at my place of internment and am reveling in the opportunity to auto-install -- count them -- 401 flavors of what in post-modernity we seem committed to calling content management. 
 
 I have a separate http://linuxmint.com[Linux Mint] box to which I think I will try installing the AMPPS package after I back up my http folder to the Cloud.  
 
-What I want to do myself is figure out how to compile my http://dokuwiki.org[Docuwiki] book of hours and http://datenstrom.se/yellow/[Yellow CMS] installation into static HTML that can also be pushed to GitHub. 
+Eventually, what I want to do myself is figure out how to compile my http://dokuwiki.org[Docuwiki] book of hours and http://datenstrom.se/yellow/[Yellow CMS] installation into static HTML that can also be pushed to GitHub. 
 
-One of these days I will figure it all out. In the meantime, many mercis beaucoups to Anthonny for this groovy little app.
+One of these days I will figure it all out. In the meantime, many mercis beaucoups to Anthonny for this groovy innovation.
