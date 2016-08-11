@@ -5,7 +5,9 @@ Oh, I see. The save icon does not appear unless you have a first level heading a
 
 Okay. 
 
-I am an aging poetry major who, having worked in technical writing and other fields over the course of a long & various career, has developed an insatiable curiosity about all aspects of Web publishing -- the many tools of this bitch goddess of a trade.
+I am an aging poetry major who, having worked in technical writing and other fields over the course of a long & eclectic career, has developed an insatiable curiosity about all aspects of Web publishing -- the many tools of this bitch goddess of a trade.
+
+https://www.questia.com/library/745252/words-into-type-a-guide-in-the-preparation-of-manuscripts[Words Into Type].
 
 An https://www.archlinux.org/[Arch Linux] man myself, I recently installed https://www.ampps.com[AMPPS] on the crappy Windows XP box at my place of internment and am reveling in the opportunity to auto-install -- count them -- 401 flavors of what in post-modernity we are wont to call content management. 
 
