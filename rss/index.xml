@@ -1,23 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 11 Aug 2016 20:14:56 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[HubPress: A First Posting]]></title><description><![CDATA[<div class="paragraph">
-<p>Oh, I see. The save icon does not appear unless you have a first level heading as your title.</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 11 Aug 2016 20:23:39 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[HubPress: A First Posting]]></title><description><![CDATA[<div class="paragraph">
+<p>Oh, I see.</p>
+</div>
+<div class="paragraph">
+<p>The save icon does not appear unless you have a first-level heading as your title.</p>
 </div>
 <div class="paragraph">
 <p>Okay.</p>
 </div>
 <div class="paragraph">
-<p>I am an aging poetry major who, having worked in technical writing and other fields over the course of a long &amp; eclectic career, has developed an insatiable curiosity about all aspects of Web publishing&#8201;&#8212;&#8201;the many tools of this bitch goddess of a trade.</p>
+<p>I am an aging poetry major who&#8201;&#8212;&#8201;having worked in technical writing and other fields over the course of a long &amp; eclectic career&#8201;&#8212;&#8201;has developed an insatiable curiosity about all aspects of Web publishing&#8201;&#8212;&#8201;the many tools of this bitch goddess of a trade.</p>
 </div>
 <div class="paragraph">
 <p><a href="https://www.questia.com/library/745252/words-into-type-a-guide-in-the-preparation-of-manuscripts">Words Into Type</a>.</p>
 </div>
 <div class="paragraph">
-<p>An <a href="https://www.archlinux.org/">Arch Linux</a> man myself, I recently installed <a href="https://www.ampps.com">AMPPS</a> on the crappy Windows XP box at my place of internment and am reveling in the opportunity to auto-install&#8201;&#8212;&#8201;count them&#8201;&#8212;&#8201;401 flavors of what in post-modernity we seem committed to calling content management.</p>
+<p>An <a href="https://www.archlinux.org/">Arch Linux</a> man myself, I recently installed <a href="https://www.ampps.com">AMPPS</a> on the crappy Windows XP box at my place of internment and am reveling in the opportunity to auto-install&#8201;&#8212;&#8201;count them&#8201;&#8212;&#8201;401 flavors of what in post-modernity we cannot help  calling content management.</p>
+</div>
+<div class="paragraph">
+<p>Content is what comes in McDonalds apple pies. Humans produce communication. But oh well.</p>
 </div>
 <div class="paragraph">
 <p>I have a separate <a href="http://linuxmint.com">Linux Mint</a> box to which I think I will try installing the AMPPS package after I back up my http folder to the Cloud.</p>
 </div>
 <div class="paragraph">
-<p>Eventually, what I want to do myself is figure out how to compile my <a href="http://dokuwiki.org">Docuwiki</a> book of hours and <a href="http://datenstrom.se/yellow/">Yellow CMS</a> installation into static HTML that can also be pushed to GitHub.</p>
+<p>Eventually, what I want to do myself is figure out how to compile my <a href="http://dokuwiki.org">DocuWiki</a> book of hours and my <a href="http://datenstrom.se/yellow/">Yellow CMS</a> installation into <a href="https://www.staticgen.com/">static HTML that can also be pushed to GitHub</a>.</p>
 </div>
 <div class="paragraph">
 <p>One of these days I will figure it all out. In the meantime, many mercis beaucoups to Anthonny for this groovy innovation.</p>
