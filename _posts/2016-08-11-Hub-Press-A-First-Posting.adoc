@@ -1,0 +1,16 @@
+= HubPress: A First Posting
+:hp-tags: HubPress, blog, open source, GitHub, content management, CMS, publishing, writing, poetry
+
+Oh, I see. The save icon does not appear unless you have a first level heading as your title. 
+
+Okay. 
+
+I am an aging poetry major who, having worked in technical writing and other fields over the course of a long & various career, has developed an insatiable curiosity about all aspects of Web publishing -- the many tools of this bitch goddess of a trade.
+
+An https://www.archlinux.org/[Arch Linux] man myself, I recently installed https://www.ampps.com[AMPPS] on the crappy Windows XP box at my place of internment and am reveling in the opportunity to auto-install -- count them -- 401 flavors of what in post-modernity we are wont to call content management. 
+
+I have a separate http://linuxmint.com[Linux Mint] box to which I think I will try installing the AMPPS package after I back up my http folder to the Cloud.  
+
+What I want to do myself is figure out how to compile my http://dokuwiki.org[Docuwiki] book of hours and http://datenstrom.se/yellow/[Yellow CMS] installation into static HTML that can also be pushed to GitHub. 
+
+One of these days I will figure it all out. In the meantime, many mercis beaucoups to Anthonny for this groovy little app.
