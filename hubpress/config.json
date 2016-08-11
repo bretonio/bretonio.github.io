@@ -4,7 +4,17 @@
     "repositoryName": "bretonio.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Bretônio on Github",
+    "description": "Una Bitácora de Navegaciones",
+    "logo": "200px-Cathar_cross.svg.png",
+    "cover": "200px-Cathar_cross.svg.png",
+    "postsPerPage": "12"
+  },
+  "socialnetwork": {
+    "github": "On GitHub"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
