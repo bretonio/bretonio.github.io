@@ -5,16 +5,16 @@
     "branch": "master"
   },
   "site": {
-    "title": "Bretônio on Github",
+    "title": "Bretônio Sur La Github",
     "description": "Una Bitácora de Navegaciones",
     "logo": "200px-Cathar_cross.svg.png",
-    "cover": "200px-Cathar_cross.svg.png",
-    "postsPerPage": "12"
+    "cover": "",
+    "postsPerPage": "8"
   },
   "socialnetwork": {
     "github": "On GitHub"
   },
   "theme": {
-    "name": "casper"
+    "name": "ghostium"
   }
 }
