@@ -12,7 +12,9 @@
     "postsPerPage": "8"
   },
   "socialnetwork": {
-    "github": "On GitHub"
+    "email": "gringolalia@gmail.com",
+    "twitter": "https://www.twitter.com/ColinBrayton",
+    "github": "http://bretonio.github.io"
   },
   "theme": {
     "name": "roon"
