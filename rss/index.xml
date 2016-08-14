@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 14 Aug 2016 18:22:35 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[The Hubbub]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 14 Aug 2016 18:24:43 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[The Hubbub]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://ampps">AMPPS</a> did not work out well for me on Linux Mint.</p>
@@ -65,13 +65,13 @@
 <div class="sect4">
 <h5 id="_dimanche_apr_s_midi">Dimanche Après-Midi</h5>
 <div class="paragraph">
-<p>This Sunday afternoon I am focusing on [Grav] and <a href="http://www.typesettercms.com/Docs">Typesetter</a> for purposes of <a href="http://sambodianas.nfshost.com/cbrayton">my own eventual Web site</a>.</p>
+<p>This Sunday afternoon I am focusing on <a href="https://learn.getgrav.org/themes/theme-tutorial">Grav</a> and <a href="http://www.typesettercms.com/Docs">Typesetter</a> for purposes of <a href="http://sambodianas.nfshost.com/cbrayton">my own eventual Web presence</a>.</p>
 </div>
 <div class="paragraph">
-<p>I am getting the hang of <a href="http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/">AsciiDoctor</a> thank you very much.</p>
+<p>I am getting the hang of <a href="http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/">AsciiDoctor</a> now, thank you very much.</p>
 </div>
 <div class="paragraph">
-<p>All of this is probably a grand waste of my time but between walking the dogs, picking up din-din at the Natureba da Terra, and catching up on <strong>Lost</strong>&#8201;&#8212;&#8201;a decade late, what am I, Robinson Crusoe?&#8201;&#8212;&#8201;I am not really doing much else.</p>
+<p>All of this is probably a grand waste of what little time I have left on this earth, but between walking the dogs, picking up din-din at the Natureba da Terra, and catching up on <strong>Lost</strong>&#8201;&#8212;&#8201;a decade late, what am I, Robinson Crusoe?&#8201;&#8212;&#8201;I am not really doing much else.</p>
 </div>
 <div class="paragraph">
 <p>I have <a href="https://en.wikipedia.org/wiki/Deleuze_and_Guattari">Deleuze &amp; Guattari</a> to read&#8201;&#8212;&#8201;is their notion of «desiring machines» really the inspiration for <strong>The Matrix?</strong>&#8201;&#8212;&#8201;and <a href="https://en.wikipedia.org/wiki/Alu%C3%ADsio_Azevedo">Aluísio Azevedo</a>.</p>
@@ -81,7 +81,7 @@
 </div>
 <div class="imageblock">
 <div class="content">
-<img src="https://bretonio.github.io/images/200px-Cathar_cross.svg.png" alt="200px Cathar cross.svg.png">
+<img src="https://bretonio.github.io/images/200px-Cathar_cross.svg.png" alt="The Cathar Cross: Dualism in Extremis">
 </div>
 </div>
 </div>]]></description><link>https://bretonio.github.io/2016/08/13/The-Hubbub.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/08/13/The-Hubbub.html</guid><category><![CDATA[AMPPS]]></category><category><![CDATA[ LAMPP stack]]></category><category><![CDATA[ Apache]]></category><category><![CDATA[ CMS]]></category><category><![CDATA[ hosting]]></category><category><![CDATA[ development]]></category><category><![CDATA[ server]]></category><category><![CDATA[ WYSIWYG]]></category><category><![CDATA[ Wix]]></category><category><![CDATA[ Grav]]></category><category><![CDATA[ Typesetter]]></category><category><![CDATA[ typography]]></category><category><![CDATA[ layout]]></category><category><![CDATA[ publishing]]></category><category><![CDATA[ Quark]]></category><category><![CDATA[ psychoanalysis]]></category><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Sat, 13 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[HubPress: A First Posting]]></title><description><![CDATA[<div class="paragraph">
