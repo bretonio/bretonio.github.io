@@ -1,13 +1,13 @@
+= The Hubbub
+:hp-tags: AMPPS, LAMPP stack, Apache, CMS, hosting, development, server, WYSIWYG, Wix, Grav, Typesetter, typography, layout, publishing, Quark, psychoanalysis
 
-= Hubbub
+http://ampps[AMPPS] did not work out well for me on Linux Mint.
 
-http://ampps[AMPSS] did not work out well for me on Linux Mint.
-
-In order to alter the PHP configuration for a needy application, I had to stop the MongoDB server. 
+In order to alter the PHP configuration -- php.ini -- for a needy application, I had to stop the MongoDB server. 
 
 But it would not stop. 
 
-I suspect I would have had to uninstall a redundant installation of MongoDB -- I did not know I had it on my system -- before installing the AMMPS package. 
+I suspect I would have had to uninstall a redundant installation of MongoDB -- I did not know I had it on my system -- before installing the AMPPS package. 
 
 Some other time.
 
@@ -15,26 +15,30 @@ Some other time.
 
 ===== Wix: Vix!
 
-I promised a psychoanalyst acquaintance of mine I would *dar um jeito* with his http://www.luizfernandofontesteixeira.com.br[Web site]￼. 
+I promised a https://en.wikipedia.org/wiki/Beco_do_Batman[Sambodian] psychoanalyst acquaintance of mine I would *dar um jeito* with his http://www.luizfernandofontesteixeira.com.br[Web site]￼. 
 
 http://whatcms.org/?s=http%3A%2F%2Fwww.luizfernandofontesteixeira.com.br&na=&nb=bf0d6b0cd6&nc=a283d9370b39da2dc4bac2aabadcb296[What CMS] says he is likely using https://www.wix.com/support/html5/article/request-cms-system[Wix] for his current site. 
 
-«Stunning». Everything is «stunning» with those Wix people. «Your stunning blog». Set design phasers on «stun».
+«Stunning». Everything is «stunning» with those Wix people. 
 
-The thing is that Doctor Jungfraud writes and posts a lot of dated articles for newspapers and journals and is not technically inclined. 
+«Your stunning blog». 
 
-He says he wants to learn a bit more about managing his own content but finds those Big 5 CMS software packages hard to use. 
+Set all Web design phasers on «stun».
+
+The thing is that Doctor Jungfraud writes and posts a lot of dated articles for newspapers and journals but he is not technically inclined. His Wix site basically works but is ugly as sin.
+
+He says he wants to learn a bit more about managing his own content but finds those Big 5 CMS software packages hard to use. Something like Grav might be useful. You can date your content at will, for example.
 
 And who does not? 
-http://tiki.org/tiki-index.php[TikiWiki] drives me crazy.But there are https://en.wikipedia.org/wiki/List_of_content_management_systems[so many choices]
+http://tiki.org/tiki-index.php[TikiWiki] drives me crazy for example. But there are https://en.wikipedia.org/wiki/List_of_content_management_systems[so many choices]
 
-Unfortunately, the sort of drag and drop layout manager and WYSIWYG text editor offered by an in many ways admirable project like http://sambodianas.typesetter.com[Typesetter] is not really going to be that much easier for Zé Psychology Major. As [they say]
+Unfortunately, the sort of drag and drop layout manager and WYSIWYG text editor offered by an in many ways admirable project like http://sambodianas.typesetter.com[Typesetter] is not really going to be that much easier for Zé Psychology Major. As https://learn.getgrav.org/content/markdown[they say]
 
 ____
 Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 ____
 
-Typesetter is sort of the Quark Express of CMS. And Quark is the 1958 Chevy Impala of offline words into typography on paper machines.
+Typesetter is sort of the Quark Express of CMS. And Quark is the 1958 Chevy Impala of offline words into typography-on-paper machines.
 
 So maybe Doctor Strangelove will just have to hire me -- dirt cheap -- to manage his **conteúdo** for him. 
 
@@ -44,10 +48,10 @@ This Sunday afternoon I am focusing on [Grav] and http://www.typesettercms.com/D
 
 I am getting the hang of http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoctor] thank you very much.
 
-All of this is probably a grand waste of my time but between walking the dogs and catching up on **Lost** -- a decade late, what am I, Robinson Crusoe? -- I am not really doing much else. 
+All of this is probably a grand waste of my time but between walking the dogs, picking up din-din at the Natureba da Terra, and catching up on **Lost** -- a decade late, what am I, Robinson Crusoe? -- I am not really doing much else. 
 
 I have https://en.wikipedia.org/wiki/Deleuze_and_Guattari[Deleuze & Guattari] to read -- is their notion of «desiring machines» really the inspiration for **The Matrix?** -- and https://en.wikipedia.org/wiki/Alu%C3%ADsio_Azevedo[Aluísio Azevedo].	
 
-But https://en.wikipedia.org/wiki/Deleuze_and_Guattari[ai, que preguiça].
+But **https://en.wikipedia.org/wiki/Macuna%C3%ADma_(novel)[ai, que preguiça]** ...
 
 image::200px-Cathar_cross.svg.png[]
