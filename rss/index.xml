@@ -1,4 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 13 Aug 2016 15:49:35 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[HubPress: A First Posting]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 14 Aug 2016 17:38:42 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[The Hubbub]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p><a href="http://ampps">AMPPS</a> did not work out well for me on Linux Mint.</p>
+</div>
+<div class="paragraph">
+<p>In order to alter the PHP configuration&#8201;&#8212;&#8201;php.ini&#8201;&#8212;&#8201;for a needy application, I had to stop the MongoDB server.</p>
+</div>
+<div class="paragraph">
+<p>But it would not stop.</p>
+</div>
+<div class="paragraph">
+<p>I suspect I would have had to uninstall a redundant installation of MongoDB&#8201;&#8212;&#8201;I did not know I had it on my system&#8201;&#8212;&#8201;before installing the AMPPS package.</p>
+</div>
+<div class="paragraph">
+<p>Some other time.</p>
+</div>
+<div style="page-break-after: always;"></div>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_wix_vix">Wix: Vix!</h5>
+<div class="paragraph">
+<p>I promised a <a href="https://en.wikipedia.org/wiki/Beco_do_Batman">Sambodian</a> psychoanalyst acquaintance of mine I would <strong>dar um jeito</strong> with his <a href="http://www.luizfernandofontesteixeira.com.br">Web site</a>￼.</p>
+</div>
+<div class="paragraph">
+<p><a href="http://whatcms.org/?s=http%3A%2F%2Fwww.luizfernandofontesteixeira.com.br&amp;na=&amp;nb=bf0d6b0cd6&amp;nc=a283d9370b39da2dc4bac2aabadcb296">What CMS</a> says he is likely using <a href="https://www.wix.com/support/html5/article/request-cms-system">Wix</a> for his current site.</p>
+</div>
+<div class="paragraph">
+<p>«Stunning». Everything is «stunning» with those Wix people.</p>
+</div>
+<div class="paragraph">
+<p>«Your stunning blog».</p>
+</div>
+<div class="paragraph">
+<p>Set all Web design phasers on «stun».</p>
+</div>
+<div class="paragraph">
+<p>The thing is that Doctor Jungfraud writes and posts a lot of dated articles for newspapers and journals but he is not technically inclined. His Wix site basically works but is ugly as sin.</p>
+</div>
+<div class="paragraph">
+<p>He says he wants to learn a bit more about managing his own content but finds those Big 5 CMS software packages hard to use. Something like Grav might be useful. You can date your content at will, for example.</p>
+</div>
+<div class="paragraph">
+<p>And who does not?
+<a href="http://tiki.org/tiki-index.php">TikiWiki</a> drives me crazy for example. But there are <a href="https://en.wikipedia.org/wiki/List_of_content_management_systems">so many choices</a></p>
+</div>
+<div class="paragraph">
+<p>Unfortunately, the sort of drag and drop layout manager and WYSIWYG text editor offered by an in many ways admirable project like <a href="http://sambodianas.typesetter.com">Typesetter</a> is not really going to be that much easier for Zé Psychology Major. As <a href="https://learn.getgrav.org/content/markdown">they say</a></p>
+</div>
+<div class="quoteblock">
+<blockquote>
+<div class="paragraph">
+<p>Let&#8217;s face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Typesetter is sort of the Quark Express of CMS. And Quark is the 1958 Chevy Impala of offline words into typography-on-paper machines.</p>
+</div>
+<div class="paragraph">
+<p>So maybe Doctor Strangelove will just have to hire me&#8201;&#8212;&#8201;dirt cheap&#8201;&#8212;&#8201;to manage his <strong>conteúdo</strong> for him.</p>
+</div>
+</div>
+<div class="sect4">
+<h5 id="_dimanche_apr_s_midi">Dimanche Après-Midi</h5>
+<div class="paragraph">
+<p>This Sunday afternoon I am focusing on [Grav] and <a href="http://www.typesettercms.com/Docs">Typesetter</a> for purposes of <a href="http://sambodianas.nfshost.com/cbrayton">my own eventual Web site</a>.</p>
+</div>
+<div class="paragraph">
+<p>I am getting the hang of <a href="http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/">AsciiDoctor</a> thank you very much.</p>
+</div>
+<div class="paragraph">
+<p>All of this is probably a grand waste of my time but between walking the dogs, picking up din-din at the Natureba da Terra, and catching up on <strong>Lost</strong>&#8201;&#8212;&#8201;a decade late, what am I, Robinson Crusoe?&#8201;&#8212;&#8201;I am not really doing much else.</p>
+</div>
+<div class="paragraph">
+<p>I have <a href="https://en.wikipedia.org/wiki/Deleuze_and_Guattari">Deleuze &amp; Guattari</a> to read&#8201;&#8212;&#8201;is their notion of «desiring machines» really the inspiration for <strong>The Matrix?</strong>&#8201;&#8212;&#8201;and <a href="https://en.wikipedia.org/wiki/Alu%C3%ADsio_Azevedo">Aluísio Azevedo</a>.</p>
+</div>
+<div class="paragraph">
+<p>But <strong><a href="https://en.wikipedia.org/wiki/Macuna%C3%ADma_(novel)">ai, que preguiça</a></strong> &#8230;&#8203;</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://bretonio.github.io/images/200px-Cathar_cross.svg.png" alt="200px Cathar cross.svg.png">
+</div>
+</div>
+</div>]]></description><link>https://bretonio.github.io/2016/08/13/The-Hubbub.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/08/13/The-Hubbub.html</guid><category><![CDATA[AMPPS]]></category><category><![CDATA[ LAMPP stack]]></category><category><![CDATA[ Apache]]></category><category><![CDATA[ CMS]]></category><category><![CDATA[ hosting]]></category><category><![CDATA[ development]]></category><category><![CDATA[ server]]></category><category><![CDATA[ WYSIWYG]]></category><category><![CDATA[ Wix]]></category><category><![CDATA[ Grav]]></category><category><![CDATA[ Typesetter]]></category><category><![CDATA[ typography]]></category><category><![CDATA[ layout]]></category><category><![CDATA[ publishing]]></category><category><![CDATA[ Quark]]></category><category><![CDATA[ psychoanalysis]]></category><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Sat, 13 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[HubPress: A First Posting]]></title><description><![CDATA[<div class="paragraph">
 <p>Oh, I see.</p>
 </div>
 <div class="paragraph">
