@@ -44,14 +44,14 @@ So maybe Doctor Strangelove will just have to hire me -- dirt cheap -- to manage
 
 ===== Dimanche Après-Midi
 
-This Sunday afternoon I am focusing on [Grav] and http://www.typesettercms.com/Docs[Typesetter] for purposes of http://sambodianas.nfshost.com/cbrayton[my own eventual Web site]. 
+This Sunday afternoon I am focusing on https://learn.getgrav.org/themes/theme-tutorial[Grav] and http://www.typesettercms.com/Docs[Typesetter] for purposes of http://sambodianas.nfshost.com/cbrayton[my own eventual Web presence]. 
 
-I am getting the hang of http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoctor] thank you very much.
+I am getting the hang of http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[AsciiDoctor] now, thank you very much.
 
-All of this is probably a grand waste of my time but between walking the dogs, picking up din-din at the Natureba da Terra, and catching up on **Lost** -- a decade late, what am I, Robinson Crusoe? -- I am not really doing much else. 
+All of this is probably a grand waste of what little time I have left on this earth, but between walking the dogs, picking up din-din at the Natureba da Terra, and catching up on **Lost** -- a decade late, what am I, Robinson Crusoe? -- I am not really doing much else. 
 
 I have https://en.wikipedia.org/wiki/Deleuze_and_Guattari[Deleuze & Guattari] to read -- is their notion of «desiring machines» really the inspiration for **The Matrix?** -- and https://en.wikipedia.org/wiki/Alu%C3%ADsio_Azevedo[Aluísio Azevedo].	
 
 But **https://en.wikipedia.org/wiki/Macuna%C3%ADma_(novel)[ai, que preguiça]** ...
 
-image::200px-Cathar_cross.svg.png[]
+image::200px-Cathar_cross.svg.png[The Cathar Cross: Dualism in Extremis]
