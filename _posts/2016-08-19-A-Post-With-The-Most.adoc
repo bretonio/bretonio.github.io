@@ -1,4 +1,12 @@
 = A Post With The Most
-
 == Tested With Success
 
+image::http://github.com/bretonio/bretonio.github.io/images/hexomynewtoys.png[]
+
+I have been obsessively trying out https://www.staticgen.com/[static site generators] of all different sorts.
+
+They include Hugo, Pelican, Assemble, Middleman, Hexo, Hugo & naturally Jekyll.
+
+Of these, to make a long story short, Hugo and Pelian seem easiest to work with for a poetry majo like myself.
+
+I canot get the Node.js package manager to work properly. Googling for a solution.
