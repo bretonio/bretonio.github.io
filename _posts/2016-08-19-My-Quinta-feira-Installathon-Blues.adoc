@@ -1,18 +1,21 @@
-= A Post With The Most
-== Static Generators Tested With Success
+= My Quinta-feira Installathon Blues
+== Static Generators Tested With Success or Lack Thereof
 
 image::https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/hexomynewtoys.png[]
 
 I have been obsessively trying out https://www.staticgen.com/[static site generators] of all different sorts.
 
-They include [Hugo, [Pelican], [Assemble], Middleman], [Hexo], Hugo & naturally [Jekyll].
+They include https://www.digitalocean.com/community/tutorials/how-to-install-and-use-hugo-a-static-site-generator-on-ubuntu-14-04[Hugo], https://github.com/getpelican/pelican-themes[Pelican], http://www.andismith.com/blog/2014/02/getting-started-with-assemble/[Assemble], https://middlemanapp.com/[Middleman], https://middlemanapp.com/[Hexo], & naturally http://jekyllrb.com/[Jekyll].
 
 Of these, to make a long story short, Hugo and Pelican seem easiest to work with for a poetry major like myself.
 
-I canot get the Node.js package manager to work properly. Googling for a solution.
+An obstacle in my quest for encyclopedic testing of these systems: I cannot get the Node.js package manager to work properly. Googling for a solution.
 
-I should stop now and return to poetry major tasks such as blogging Brazilian politics and culture and writing my modest little media studies column in Portuguese. 
+== Stop in the Name of Fernando Pessoa
 
-Messing obsessively with the tech is like sharpening your pencil compulsively until you have no time to write because you have to go to the stationery store. 
+I should stop now and return to poetry major tasks such as blogging Brazilian & Sambodian -- São Paulo -- politics and culture and writing my modest little media studies column in Portuguese. 
 
-But still, I love the tech. I have always loved the tech of publishing, from the ancient linotype machine at the South Pasadena Review to the ancient Quark XPress server at Internet World, where I first learned Web publishing on a Cold Fusion system. 
+Messing obsessively with the tech is like sharpening your pencil compulsively until you have no time to write because you have to go to the stationery store. Again.
+
+But still, I love the tech with a passion and refuse to let my chronic newbism get in the way. I have always loved the tech of publishing, from the ancient linotype machine at the South Pasadena Review to the ancient Quark XPress server at Internet World, where I first learned Web publishing on a Cold Fusion system. In junior high school print shop, we made fliers and business cards the same way Gutenberg made Bibles. 
+
