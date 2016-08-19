@@ -33,7 +33,9 @@ I have always loved the tech of publishing, from the ancient linotype machine at
 
 In junior high school print shop, we made fliers and business cards the same way Gutenberg made Bibles. 
 
-In graduate school at Berkeley I did a fantastic paleography seminar with Prof. Joseph Duggan. I did a project on a medieval Iberian author who tried to institute quality control against the constant slips of the pen of half-blind monks -- hence http://www.textualscholarship.org/stemmatics/[Lachmann's method] -- by maintaining true copies of his works at various locations and mentioning theme in the preface to his work. 
+In graduate school at Berkeley I did a fantastic paleography seminar with Prof. Joseph Duggan. I did a project on a medieval Iberian author who tried to institute quality control against the constant slips of the pen of half-blind monks -- hence http://www.textualscholarship.org/stemmatics/[Lachmann's method] -- by maintaining true copies of his works at various locations and mentioning them in the preface to his work. 
+
+Copying books by hand was an exercise in https://en.wikipedia.org/wiki/Chinese_whispers[Chinese Whispers].
 
 I was so inspired by this course that I considered dropping my doctorate and doing a master's in library science -- a very advanced and challenging field when practiced correctly. 
 
