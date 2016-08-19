@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 19 Aug 2016 15:33:22 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[My Quinta-feira Installathon Blues]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 19 Aug 2016 16:15:03 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[My Quinta-feira Installathon Blues]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
@@ -15,7 +15,13 @@
 <p>Of these, to make a long story short, Hugo and Pelican seem easiest to work with for a poetry major like myself.</p>
 </div>
 <div class="paragraph">
-<p>An obstacle in my quest for encyclopedic testing of these systems: I cannot get the Node.js package manager to work properly. Googling for a solution.</p>
+<p>An obstacle in my quest for encyclopedic testing of these systems: I cannot get the Node.js package manager to work properly. This means I am unable to check out, for example, <a href="https://github.com/gatsbyjs/gatsby">Gatsby</a> for the time being. Or [Sculpin] or [Assemble] or <a href="http://www.metalsmith.io/">Metalsmith</a> or <a href="https://harpjs.com/docs/quick-start">Harp</a>.</p>
+</div>
+<div class="paragraph">
+<p>Googling for a solution. Cactus and other Python packages are accessible.</p>
+</div>
+<div class="paragraph">
+<p>In the meantime I added quickstart crib sheets on Pelican and Hugo to my DokuWiki.</p>
 </div>
 </div>
 </div>
@@ -23,13 +29,44 @@
 <h2 id="_stop_in_the_name_of_fernando_pessoa">Stop in the Name of Fernando Pessoa</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>I should stop now and return to poetry major tasks such as blogging Brazilian &amp; Sambodian&#8201;&#8212;&#8201;São Paulo&#8201;&#8212;&#8201;politics and culture and writing my modest little media studies column in Portuguese.</p>
+<p>I should stop now and return to poetry major tasks such as blogging Brazilian &amp; Sambodian&#8201;&#8212;&#8201;São Paulo&#8201;&#8212;&#8201;politics and culture and writing my modest little mediahttp://bootswatch.com/flatly/ studies column in Portuguese.</p>
 </div>
 <div class="paragraph">
-<p>Messing obsessively with the tech is like sharpening your pencil compulsively until you have no time to write because you have to go to the stationery store. Again.</p>
+<p>I should also select a package and begin working on two sites I am pledged to develop for the Cancer Ward and its denizens. I actually think that <a href="http://urubu-quickstart.jandecaluwe.com/start.html">Urubu</a> would work very nicely with the <a href="http://bootswatch.com/flatly/#buttons">Flatly theme</a>, the same used by Typesetter, which however lacks a decent blogging module.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_sharpening_the_pencil">Sharpening the Pencil</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Messing obsessively with the tech is like sharpening your pencil compulsively until you have no time to write because you have to go to the stationery store. Again. Formulating the To-Do list on my wiki becomes an end in itself. Writing projects are endlessly deferred until the wiki becomes an exercise i the possibility of writing and not writing in itself. In the same vein as Jorge Luis Borges, I guess.</p>
 </div>
 <div class="paragraph">
-<p>But still, I love the tech with a passion and refuse to let my chronic newbism get in the way. I have always loved the tech of publishing, from the ancient linotype machine at the South Pasadena Review to the ancient Quark XPress server at Internet World, where I first learned Web publishing on a Cold Fusion system. In junior high school print shop, we made fliers and business cards the same way Gutenberg made Bibles.</p>
+<p>But still, I love the tech with a passion and refuse to let my chronic newbism get in the way.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_verborrhagia_typophilia">Verborrhagia &amp; Typophilia</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I have always loved the tech of publishing, from the ancient linotype machine at the South Pasadena Review to the ancient Quark XPress server at Internet World, where I first learned Web publishing on a Cold Fusion system.</p>
+</div>
+<div class="paragraph">
+<p>In junior high school print shop, we made fliers and business cards the same way Gutenberg made Bibles.</p>
+</div>
+<div class="paragraph">
+<p>In graduate school at Berkeley I did a fantastic paleography seminar with Prof. Joseph Duggan. I did a project onj a medieval author who tried to institute quality control against the constant slips of the pen of half-blind monks&#8201;&#8212;&#8201;hence <a href="http://www.textualscholarship.org/stemmatics/">Lachmann&#8217;s method</a>&#8201;&#8212;&#8201;by maintaining true copies of his works at various locations.</p>
+</div>
+<div class="paragraph">
+<p>I was so inspired that I considered dropping my doctorate and doing a master&#8217;s in library science&#8201;&#8212;&#8201;a very advanced and challenging field when practiced correctly.</p>
+</div>
+<div class="paragraph">
+<p>In any event, I love typography and layout and writing heds and subheds and jump heds. What I would not give tohttp://bootswatch.com/flatly/ be back on the New York editorial scene working for Jane or GQ or Artforum as in the rapidly receding past.</p>
+</div>
+<div class="paragraph">
+<p>Essay idea in honor of Umberto Eco: The Web designer as neo-Medieval scribe.</p>
 </div>
 </div>
 </div>]]></description><link>https://bretonio.github.io/2016/08/19/My-Quinta-feira-Installathon-Blues.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/08/19/My-Quinta-feira-Installathon-Blues.html</guid><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Fri, 19 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[The Hubbub]]></title><description><![CDATA[<div id="preamble">
