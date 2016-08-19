@@ -9,13 +9,34 @@ They include https://www.digitalocean.com/community/tutorials/how-to-install-and
 
 Of these, to make a long story short, Hugo and Pelican seem easiest to work with for a poetry major like myself.
 
-An obstacle in my quest for encyclopedic testing of these systems: I cannot get the Node.js package manager to work properly. Googling for a solution.
+An obstacle in my quest for encyclopedic testing of these systems: I cannot get the Node.js package manager to work properly. This means I am unable to check out, for example, https://github.com/gatsbyjs/gatsby[Gatsby] for the time being. Or [Sculpin] or [Assemble] or http://www.metalsmith.io/[Metalsmith] or https://harpjs.com/docs/quick-start[Harp].
+
+Googling for a solution. Cactus and other Python packages are accessible.
+
+In the meantime I added quickstart crib sheets on Pelican and Hugo to my DokuWiki.
 
 == Stop in the Name of Fernando Pessoa
 
-I should stop now and return to poetry major tasks such as blogging Brazilian & Sambodian -- São Paulo -- politics and culture and writing my modest little media studies column in Portuguese. 
+I should stop now and return to poetry major tasks such as blogging Brazilian & Sambodian -- São Paulo -- politics and culture and writing my modest little mediahttp://bootswatch.com/flatly/ studies column in Portuguese. 
 
-Messing obsessively with the tech is like sharpening your pencil compulsively until you have no time to write because you have to go to the stationery store. Again.
+I should also select a package and begin working on two sites I am pledged to develop for the Cancer Ward and its denizens. I actually think that http://urubu-quickstart.jandecaluwe.com/start.html[Urubu] would work very nicely with the http://bootswatch.com/flatly/#buttons[Flatly theme], the same used by Typesetter, which however lacks a decent blogging module. 
 
-But still, I love the tech with a passion and refuse to let my chronic newbism get in the way. I have always loved the tech of publishing, from the ancient linotype machine at the South Pasadena Review to the ancient Quark XPress server at Internet World, where I first learned Web publishing on a Cold Fusion system. In junior high school print shop, we made fliers and business cards the same way Gutenberg made Bibles. 
+== Sharpening the Pencil
 
+Messing obsessively with the tech is like sharpening your pencil compulsively until you have no time to write because you have to go to the stationery store. Again. Formulating the To-Do list on my wiki becomes an end in itself. Writing projects are endlessly deferred until the wiki becomes an exercise i the possibility of writing and not writing in itself. In the same vein as Jorge Luis Borges, I guess.
+
+But still, I love the tech with a passion and refuse to let my chronic newbism get in the way. 
+
+== Verborrhagia & Typophilia
+
+I have always loved the tech of publishing, from the ancient linotype machine at the South Pasadena Review to the ancient Quark XPress server at Internet World, where I first learned Web publishing on a Cold Fusion system. 
+
+In junior high school print shop, we made fliers and business cards the same way Gutenberg made Bibles. 
+
+In graduate school at Berkeley I did a fantastic paleography seminar with Prof. Joseph Duggan. I did a project onj a medieval author who tried to institute quality control against the constant slips of the pen of half-blind monks -- hence http://www.textualscholarship.org/stemmatics/[Lachmann's method] -- by maintaining true copies of his works at various locations. 
+
+I was so inspired that I considered dropping my doctorate and doing a master's in library science -- a very advanced and challenging field when practiced correctly. 
+
+In any event, I love typography and layout and writing heds and subheds and jump heds. What I would not give tohttp://bootswatch.com/flatly/ be back on the New York editorial scene working for Jane or GQ or Artforum as in the rapidly receding past. 
+
+Essay idea in honor of Umberto Eco: The Web designer as neo-Medieval scribe. 
