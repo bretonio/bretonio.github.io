@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 19 Aug 2016 15:16:01 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[A Post With The Most]]></title><description><![CDATA[<div class="imageblock">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 19 Aug 2016 15:33:22 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[My Quinta-feira Installathon Blues]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="imageblock">
 <div class="content">
 <img src="https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/hexomynewtoys.png" alt="hexomynewtoys.png">
 </div>
@@ -7,23 +9,30 @@
 <p>I have been obsessively trying out <a href="https://www.staticgen.com/">static site generators</a> of all different sorts.</p>
 </div>
 <div class="paragraph">
-<p>They include [Hugo, [Pelican], [Assemble], Middleman], [Hexo], Hugo &amp; naturally [Jekyll].</p>
+<p>They include <a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-hugo-a-static-site-generator-on-ubuntu-14-04">Hugo</a>, <a href="https://github.com/getpelican/pelican-themes">Pelican</a>, <a href="http://www.andismith.com/blog/2014/02/getting-started-with-assemble/">Assemble</a>, <a href="https://middlemanapp.com/">Middleman</a>, <a href="https://middlemanapp.com/">Hexo</a>, &amp; naturally <a href="http://jekyllrb.com/">Jekyll</a>.</p>
 </div>
 <div class="paragraph">
 <p>Of these, to make a long story short, Hugo and Pelican seem easiest to work with for a poetry major like myself.</p>
 </div>
 <div class="paragraph">
-<p>I canot get the Node.js package manager to work properly. Googling for a solution.</p>
+<p>An obstacle in my quest for encyclopedic testing of these systems: I cannot get the Node.js package manager to work properly. Googling for a solution.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_stop_in_the_name_of_fernando_pessoa">Stop in the Name of Fernando Pessoa</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>I should stop now and return to poetry major tasks such as blogging Brazilian &amp; Sambodian&#8201;&#8212;&#8201;São Paulo&#8201;&#8212;&#8201;politics and culture and writing my modest little media studies column in Portuguese.</p>
 </div>
 <div class="paragraph">
-<p>I should stop now and return to poetry major tasks such as blogging Brazilian politics and culture and writing my modest little media studies column in Portuguese.</p>
+<p>Messing obsessively with the tech is like sharpening your pencil compulsively until you have no time to write because you have to go to the stationery store. Again.</p>
 </div>
 <div class="paragraph">
-<p>Messing obsessively with the tech is like sharpening your pencil compulsively until you have no time to write because you have to go to the stationery store.</p>
+<p>But still, I love the tech with a passion and refuse to let my chronic newbism get in the way. I have always loved the tech of publishing, from the ancient linotype machine at the South Pasadena Review to the ancient Quark XPress server at Internet World, where I first learned Web publishing on a Cold Fusion system. In junior high school print shop, we made fliers and business cards the same way Gutenberg made Bibles.</p>
 </div>
-<div class="paragraph">
-<p>But still, I love the tech. I have always loved the tech of publishing, from the ancient linotype machine at the South Pasadena Review to the ancient Quark XPress server at Internet World, where I first learned Web publishing on a Cold Fusion system.</p>
-</div>]]></description><link>https://bretonio.github.io/2016/08/19/A-Post-With-The-Most.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/08/19/A-Post-With-The-Most.html</guid><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Fri, 19 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[The Hubbub]]></title><description><![CDATA[<div id="preamble">
+</div>
+</div>]]></description><link>https://bretonio.github.io/2016/08/19/My-Quinta-feira-Installathon-Blues.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/08/19/My-Quinta-feira-Installathon-Blues.html</guid><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Fri, 19 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[The Hubbub]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="http://ampps">AMPPS</a> did not work out well for me on Linux Mint.</p>
