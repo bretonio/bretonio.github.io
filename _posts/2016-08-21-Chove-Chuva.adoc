@@ -1,0 +1,35 @@
+= Chove Chuva
+:hp-tags: HubPress, blog, open source, CMS, static site generator, css, themes, theming, Bootstrap
+
+
+You know what might be perfect for the projects I am planning?
+
+http://blog.kdheepak.com/how-to-set-up-a-pelican-blog-with-github-pages.html[Pelican] with a theme called https://github.com/yuex/pelican-chameleon[Chameleon] which is translatable into various [Bootstrap]-based themes, like https://bootswatch.com/united/[United] -- an homage to Ubuntu -- or https://bootswatch.com/cosmo/[Cosmos]. Cosmos I really like.
+
+http://blog.kdheepak.com/how-to-set-up-a-pelican-blog-with-github-pages.html[Pelican Bootstrap3] has the same flexibility.
+
+But I do not understand how to reset the variables in these themes as instructed. 
+
+It appears you have to replace THEME = in **pelicanconf.py** with BOOTSTRAP_THEME = ... Or do you?
+
+No, I see now, you first refer to THEME = 'pelican-bootstrap3' and then add the other line below it.
+
+And it works!
+
+This may not seem like much of a technical triumph to you but I majored in poetry, as I often say. (I practically have a piled higher and deeper in advanced literary thinkology).
+
+I am down to [Hugo](http://themes.gohugo.io/) and [Pelican](http://docs.getpelican.com/en/3.6.3/install.html) and [Jekyll](http://docs.getpelican.com/en/3.6.3/content.html) for my site-builder of choice. 
+
+[Nikola](https://getnikola.com/getting-started.html), maintained in the AUR repository, is also interesting -- `yaourt python-nikola-git`
+
+But it uses reStructuredText, of which am not at all fond. 
+
+Are there other such tools in AUR? Jekyll for one.
+
+The time comes when you have to choose and get on with things. If you want to know the truth, I am probably going to use a simple CMS for these projects because the authors will want the satisfaction of learning to manage their **conteúdo** themselves. 
+
+(It is a learning exercise for patients of the Cancer Ward.)
+
+Mrs. Me is calling. Time for a late lunch of arroz, feijão e salada, and «Brasileirinho» playing on Radio USP.
+
+![Bootstrap Test Page](https://github.com/Braytonio/pelican-tests/blob/master/bootstrapunitedscaled.png)
