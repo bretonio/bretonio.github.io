@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 19 Aug 2016 18:08:06 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[My Sexta-feira Installathon Blues]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 21 Aug 2016 16:34:25 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Chove Chuva]]></title><description><![CDATA[<div class="paragraph">
+<p>You know what might be perfect for the projects I am planning?</p>
+</div>
+<div class="paragraph">
+<p><a href="http://blog.kdheepak.com/how-to-set-up-a-pelican-blog-with-github-pages.html">Pelican</a> with a theme called <a href="https://github.com/yuex/pelican-chameleon">Chameleon</a> which is translatable into various [Bootstrap]-based themes, like <a href="https://bootswatch.com/united/">United</a>&#8201;&#8212;&#8201;an homage to Ubuntu&#8201;&#8212;&#8201;or <a href="https://bootswatch.com/cosmo/">Cosmos</a>. Cosmos I really like.</p>
+</div>
+<div class="paragraph">
+<p><a href="http://blog.kdheepak.com/how-to-set-up-a-pelican-blog-with-github-pages.html">Pelican Bootstrap3</a> has the same flexibility.</p>
+</div>
+<div class="paragraph">
+<p>But I do not understand how to reset the variables in these themes as instructed.</p>
+</div>
+<div class="paragraph">
+<p>It appears you have to replace THEME = in <strong>pelicanconf.py</strong> with BOOTSTRAP_THEME = &#8230;&#8203; Or do you?</p>
+</div>
+<div class="paragraph">
+<p>No, I see now, you first refer to THEME = 'pelican-bootstrap3' and then add the other line below it.</p>
+</div>
+<div class="paragraph">
+<p>And it works!</p>
+</div>
+<div class="paragraph">
+<p>This may not seem like much of a technical triumph to you but I majored in poetry, as I often say. (I practically have a piled higher and deeper in advanced literary thinkology).</p>
+</div>
+<div class="paragraph">
+<p>I am down to [Hugo](<a href="http://themes.gohugo.io/" class="bare">http://themes.gohugo.io/</a>) and [Pelican](<a href="http://docs.getpelican.com/en/3.6.3/install.html" class="bare">http://docs.getpelican.com/en/3.6.3/install.html</a>) and [Jekyll](<a href="http://docs.getpelican.com/en/3.6.3/content.html" class="bare">http://docs.getpelican.com/en/3.6.3/content.html</a>) for my site-builder of choice.</p>
+</div>
+<div class="paragraph">
+<p>[Nikola](<a href="https://getnikola.com/getting-started.html" class="bare">https://getnikola.com/getting-started.html</a>), maintained in the AUR repository, is also interesting&#8201;&#8212;&#8201;<code>yaourt python-nikola-git</code></p>
+</div>
+<div class="paragraph">
+<p>But it uses reStructuredText, of which am not at all fond.</p>
+</div>
+<div class="paragraph">
+<p>Are there other such tools in AUR? Jekyll for one.</p>
+</div>
+<div class="paragraph">
+<p>The time comes when you have to choose and get on with things. If you want to know the truth, I am probably going to use a simple CMS for these projects because the authors will want the satisfaction of learning to manage their <strong>conteúdo</strong> themselves.</p>
+</div>
+<div class="paragraph">
+<p>(It is a learning exercise for patients of the Cancer Ward.)</p>
+</div>
+<div class="paragraph">
+<p>Mrs. Me is calling. Time for a late lunch of arroz, feijão e salada, and «Brasileirinho» playing on Radio USP.</p>
+</div>
+<div class="paragraph">
+<p>![Bootstrap Test Page](<a href="https://github.com/Braytonio/pelican-tests/blob/master/bootstrapunitedscaled.png" class="bare">https://github.com/Braytonio/pelican-tests/blob/master/bootstrapunitedscaled.png</a>)</p>
+</div>]]></description><link>https://bretonio.github.io/2016/08/21/Chove-Chuva.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/08/21/Chove-Chuva.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[ blog]]></category><category><![CDATA[ open source]]></category><category><![CDATA[ CMS]]></category><category><![CDATA[ static site generator]]></category><category><![CDATA[ css]]></category><category><![CDATA[ themes]]></category><category><![CDATA[ theming]]></category><category><![CDATA[ Bootstrap]]></category><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Sun, 21 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[My Quinta-feira Installathon Blues]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
@@ -15,10 +62,10 @@
 <p>Of these, to make a long story short, Hugo and Pelican seem easiest to work with for a poetry major like myself.</p>
 </div>
 <div class="paragraph">
-<p>An obstacle in my quest for encyclopedic testing of these systems: I cannot get the Node.js package manager to work properly. This means I am unable to check out, for example, <a href="https://github.com/gatsbyjs/gatsby">Gatsby</a> for the time being. Or <a href="https://sculpin.io/">Sculpin</a> or <a href="http://assemble.io/docs/Installation.html">Assemble</a> or <a href="http://www.metalsmith.io/">Metalsmith</a> or <a href="https://harpjs.com/docs/quick-start">Harp</a>.</p>
+<p>An obstacle in my quest for encyclopedic testing of these systems: I cannot get the Node.js package manager to work properly. This means I am unable to check out, for example, <a href="https://github.com/gatsbyjs/gatsby">Gatsby</a> for the time being. Or [Sculpin] or [Assemble] or <a href="http://www.metalsmith.io/">Metalsmith</a> or <a href="https://harpjs.com/docs/quick-start">Harp</a>.</p>
 </div>
 <div class="paragraph">
-<p>Googling for a solution. Cactus and other Python packages are easily accessible.</p>
+<p>Googling for a solution. Cactus and other Python packages are accessible.</p>
 </div>
 <div class="paragraph">
 <p>In the meantime I added quickstart crib sheets on Pelican and Hugo to my DokuWiki.</p>
@@ -72,7 +119,7 @@
 <p>Essay idea in honor of Umberto Eco: The Web designer as neo-Medieval scribe.</p>
 </div>
 </div>
-</div>]]></description><link>https://bretonio.github.io/2016/08/19/My-Sexta-feira-Installathon-Blues.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/08/19/My-Sexta-feira-Installathon-Blues.html</guid><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Fri, 19 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Double-Blogging on the Triple Frontier]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://bretonio.github.io/2016/08/19/My-Quinta-feira-Installathon-Blues.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/08/19/My-Quinta-feira-Installathon-Blues.html</guid><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Fri, 19 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Double-Blogging on the Triple Frontier]]></title><description><![CDATA[<div class="paragraph">
 <p>My friends think I am crazy, triple-blogging to GitHub, <a href="https://tupiwire.wordpress.com/2016/08/19/above-the-hubbub/">Wordpress</a>, <a href="https://twitter.com/ColinBrayton/status/766684201324253185">Twitter</a> &amp; <a href="https://www.facebook.com/profile.php?id=100007406176198&amp;fref=nf&amp;pnref=story">Facebook</a> all at once.</p>
 </div>
 <div class="paragraph">
