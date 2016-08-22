@@ -1,0 +1,13 @@
+= Waging War on Windows
+
+I hate this machine, an antiquated Windows 7 box in the computer lab at the Cancer Ward. (I have AMPPS installed as a localhost server for testing CMS but it is kind of fubar.)
+
+For one thing, it will not let me install Python or Node.js, although it is fine with Ruby. Tech support? There are rumors that it atually exists, but no sign of intelligent life yet. 
+
+So I cannot work in my down time here.
+
+The Windows command line interface is also a pain in the ass. 
+
+No `unzip` command, and the `edit` command gives you an editor which does not follow your keymap -- no freaking double quotes, which one needs for front matter and any number of things.
+
+So it looks like I will be stuck working with https://www.ruby-toolbox.com/categories/static_website_generation[Ruby sitegens] during the week: Jekyll & http://nanoc.ws/doc/tutorial/[Nanoc] & https://middlemanapp.com/[Middleman] & https://www.ruby-toolbox.com/projects/awestruct[Awestruct] ... should be fun.
