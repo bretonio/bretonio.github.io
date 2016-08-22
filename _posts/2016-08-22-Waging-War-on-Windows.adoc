@@ -1,8 +1,10 @@
 = Waging War on Windows
 
-I hate this machine, an antiquated Windows 7 box in the computer lab at the Cancer Ward. (I have AMPPS installed as a localhost server for testing CMS but it is kind of fubar.)
+I hate this machine, an antiquated Windows 7 box in the computer lab at the Cancer Ward. (I have AMPPS installed as a localhost server for testing CMS but it is pretty damn `fubar`.)
 
-For one thing, it will not let me install Python or Node.js, although it is fine with Ruby. Tech support? There are rumors that it atually exists, but no sign of intelligent life yet. 
+For one thing, the permissions will not let me install Python or Node.js, although they are fine with Ruby. 
+
+Tech support? There are rumors that it atually exists, but no sign of intelligent life yet. 
 
 So I cannot work in my down time here.
 
