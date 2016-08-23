@@ -18,18 +18,20 @@ And it works!
 
 This may not seem like much of a technical triumph to you but I majored in poetry, as I often say. (I practically have a piled higher and deeper in advanced literary thinkology).
 
-I am down to [Hugo](http://themes.gohugo.io/) and [Pelican](http://docs.getpelican.com/en/3.6.3/install.html) and [Jekyll](http://docs.getpelican.com/en/3.6.3/content.html) for my site-builder of choice. 
+I am down to http://themes.gohugo.io/[Hugo] and http://docs.getpelican.com/en/3.6.3/install.html[Pelican] and http://docs.getpelican.com/en/3.6.3/content.html[Jekyll] for my site-builder of choice. Jekyll is kind of hard to use.
 
-[Nikola](https://getnikola.com/getting-started.html), maintained in the AUR repository, is also interesting -- `yaourt python-nikola-git`
+https://getnikola.com/getting-started.html[Nikola], maintained in the AUR repository, is also interesting -- `yaourt python-nikola-git`
 
-But it uses reStructuredText, of which am not at all fond. 
+But it uses reStructuredText, of which am not at all fond. Start talking about recompiling and my eyes glaze over.
 
-Are there other such tools in AUR? Jekyll for one.
+Are there other such tools in AUR? Jekyll for one is. Ruby Toolbox has a whole section on them.
 
-The time comes when you have to choose and get on with things. If you want to know the truth, I am probably going to use a simple CMS for these projects because the authors will want the satisfaction of learning to manage their **conteúdo** themselves. 
+The time comes when you have to choose and get on with things. 
+
+If you want to know the truth, I am probably going to use a simple CMS for these projects because the authors will want the satisfaction of learning to manage their **conteúdo** themselves. 
 
 (It is a learning exercise for patients of the Cancer Ward.)
 
-Mrs. Me is calling. Time for a late lunch of arroz, feijão e salada, and «Brasileirinho» playing on Radio USP.
+But Mrs. Me is calling. Time for a late lunch of arroz, feijão e salada, and «Brasileirinho» playing on Radio USP.
 
 ![Bootstrap Test Page](https://github.com/Braytonio/pelican-tests/blob/master/bootstrapunitedscaled.png)
