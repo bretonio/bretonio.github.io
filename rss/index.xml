@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 23 Aug 2016 14:05:10 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Waging War on Windows]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Tue, 23 Aug 2016 14:07:42 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Waging War on Windows]]></title><description><![CDATA[<div class="paragraph">
 <p>I hate this machine, an antiquated Windows 7 box in the computer lab at the Cancer Ward. (I have AMPPS installed as a localhost server for testing CMS but it is pretty damn <code>fubar</code>.)</p>
 </div>
 <div class="paragraph">
@@ -65,9 +65,6 @@
 </div>
 <div class="paragraph">
 <p>But Mrs. Me is calling. Time for a late lunch of arroz, feijão e salada, and «Brasileirinho» playing on Radio USP.</p>
-</div>
-<div class="paragraph">
-<p>image::https://github.com/Braytonio/pelican-tests/blob/master/bootstrapunitedscaled.png</p>
 </div>]]></description><link>https://bretonio.github.io/2016/08/21/Chove-Chuva.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/08/21/Chove-Chuva.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[ blog]]></category><category><![CDATA[ open source]]></category><category><![CDATA[ CMS]]></category><category><![CDATA[ static site generator]]></category><category><![CDATA[ css]]></category><category><![CDATA[ themes]]></category><category><![CDATA[ theming]]></category><category><![CDATA[ Bootstrap]]></category><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Sun, 21 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[My Quinta-feira Installathon Blues]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
