@@ -34,4 +34,4 @@ If you want to know the truth, I am probably going to use a simple CMS for these
 
 But Mrs. Me is calling. Time for a late lunch of arroz, feijão e salada, and «Brasileirinho» playing on Radio USP.
 
-![Bootstrap Test Page](https://github.com/Braytonio/pelican-tests/blob/master/bootstrapunitedscaled.png)
+image::https://github.com/Braytonio/pelican-tests/blob/master/bootstrapunitedscaled.png
