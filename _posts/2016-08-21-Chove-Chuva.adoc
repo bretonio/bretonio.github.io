@@ -33,5 +33,3 @@ If you want to know the truth, I am probably going to use a simple CMS for these
 (It is a learning exercise for patients of the Cancer Ward.)
 
 But Mrs. Me is calling. Time for a late lunch of arroz, feijão e salada, and «Brasileirinho» playing on Radio USP.
-
-image::https://github.com/Braytonio/pelican-tests/blob/master/bootstrapunitedscaled.png
