@@ -1,11 +1,9 @@
 = Heckling Jekyll
 :hp:tags: Hub Press, Web log, Github, Open Source, DIY, publishing, words into typography, design, function, jekyll, yaml, beautiful-jekyll, themes, troubleshooting
 
-image::https://github.com/Braytonio/Braytonio.github.io/blob/master/img/radio250.png[Radio Days]
-
 I followed http://deanattali.com/beautiful-jekyll/[Dean's instructions] to create a Beautiful Jekyll-themed site at https://braytonio.github.io/[Braytonio.github.io], cloning it into my project `dir` and editing it and its config file with http://prose.io/#Braytonio[Prose.io]. 
 
-No joy. <!--more-->
+No joy. [--more--]
 
 I commit my changes after editing `aboutme.md` and filling out variables in **config.yml** but the page does not update with its new title, the «Irony Ant Bloc» (an anagram of my name).
 
@@ -33,7 +31,7 @@ And so off and so forth.
 
 === Neuzinha, Muse of the Digital Arts
 
-Neuza is actually excited at the prospect of me [building her a groovy Web site](https://github.com/neuza-paranhos/neuza-paranhos.github.io) where she can publish all her fabulous writings. 
+Neuza is actually excited at the prospect of me [building her a groovy Web site](https://github.com/neuza-paranhos/neuza-paranhos.github.io) where she can publish all her fabulous writings 
 
 She sometimes refers to herself as «computer widow» because I spend so much time hacking away at digital windmills, so it is nice to have the vote of confidence. I was surprised yesterday when she said she knew what Github was. I guess I should not have been: she and Sergio have been working for a client in the Google family of fantastically advanced ventures.  
 
