@@ -5,7 +5,7 @@ I followed http://deanattali.com/beautiful-jekyll/[Dean's instructions] to creat
 
 No joy. [--more--]
 
-I commit my changes after editing `aboutme.md` and filling out variables in **config.yml** but the page does not update with its new title, the «Irony Ant Bloc» (an anagram of my name).
+I commit my changes after editing `aboutme.md` and filling out variables in `config.yml` but the page does not update with its new title, the «Irony Ant Bloc» (an anagram of my name).
 
 I clone the repo to my machine to work on it here but now my jekyll installation makes fubar noises. 
 
