@@ -11,7 +11,7 @@ I clone the repo to my machine to work on it here but now my jekyll installation
 
 I mess with that for a while and then manage to start building with `bundle exec jekyll build`. But this yields
 
-> control characters are not allowed at line 1, column 1
+>> control characters are not allowed at line 1, column 1
 
 === Urgh! (A Music War)
 
