@@ -1,6 +1,8 @@
 = Heckling Jekyll
 :hp:tags: Hub Press, Web log, Github, Open Source, DIY, publishing, words into typography, design, function, jekyll, yaml, beautiful-jekyll, themes, troubleshooting
 
+image::https://raw.githubusercontent.com/Braytonio/Braytonio.github.io/master/img/radio250.png[Radio Daze]
+
 I followed http://deanattali.com/beautiful-jekyll/[Dean's instructions] to create a Beautiful Jekyll-themed site at https://braytonio.github.io/[Braytonio.github.io], cloning it into my project `dir` and editing it and its config file with http://prose.io/#Braytonio[Prose.io]. 
 
 No joy.
@@ -42,3 +44,5 @@ So I was surprised yesterday when she said she knew what Github was.
 I guess I should not have been: she and Sergio Crusco have been working for a client in the Google Brasil family of fantastically advanced little ventures.  
 
 Em fim: I think I will https://www.notionsandnotes.org/tech/web-development/pelican-static-blog-setup.html[try out Pelican] for this modest domestic project. And now to walk the cadelas. 
+
+image::https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/hexomynewtoys.png[]
