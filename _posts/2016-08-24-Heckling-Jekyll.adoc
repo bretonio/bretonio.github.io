@@ -1,0 +1,20 @@
+= Heckling Jekyll
+
+![Radio Days](https://github.com/Braytonio/Braytonio.github.io/blob/master/img/radio250.png)
+
+I followed [Dean's instructions](http://deanattali.com/beautiful-jekyll/) to create a Beautiful Jekyll-themed site at [Braytonio.github.io](https://github.com/Braytonio/Braytonio.github.io/blob/master/_config.yml), cloning it into my project `dir` and editing it and its config file with [Prose.io](http://prose.io/#Braytonio). 
+
+No joy. <!--more-->
+
+I commit my changes after editing `aboutme.md` but the page does not update with its new title, the «Irony Ant Bloc» (an anagram of my name).
+
+
+I clone the repo to my machine to work on it here but now my jekyll installation is fubar. I mess with that for a while and then manage to start building with `bundle exec jekyll build`. But this yields
+
+> control characters are not allowed at line 1, column 1
+
+[Urgh!](https://en.wikipedia.org/wiki/Urgh!_A_Music_War).
+
+And then I get the e-mail notice of build failure. Hooray! There is [advice](https://help.github.com/articles/page-build-failed-config-file-error/). I can either check line by line or simple go back to the original `_conf.yml` and re-enter my settings. I think maybe resetting the `baseurl` to `"/" was the problem. And perhaps the problem is not with the Jekyll installation after all. In any event, there are YAML validators to try out, which is neat-o.
+
+And so and so forth. Neuza is actually excited at the prospect of me [building her a groovy Web site](https://github.com/neuza-paranhos/neuza-paranhos.github.io) where she can publish all her fabulous writings. She sometimes refers to herself as «computer widow» because I spend so much time hacking away at digital windmills, so it is nice to have the vote of confidence. I think I will try out Pelican for this project.
