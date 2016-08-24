@@ -13,13 +13,17 @@ I clone the repo to my machine to work on it here but now my jekyll installation
 
 I mess with that for a while and then manage to start building with `bundle exec jekyll build`. But this yields
 
->> control characters are not allowed at line 1, column 1
+> control characters are not allowed at line 1, column 1
+
+Urgh!
 
 === Urgh! (A Music War)
 
-https://en.wikipedia.org/wiki/Urgh!_A_Music_War[Urgh!]
+I say again: https://en.wikipedia.org/wiki/Urgh!_A_Music_War[Urgh!]
 
-(I actually attended that groundbreaking event. I even had my picture on the cover of *Surfer* magazine as part of the Dead Boys mosh pit.)
+(I actually attended that groundbreaking musical  event. 
+
+I even had my picture on the cover of *Surfer* magazine as part of the Dead Boys mosh pit.)
 
 And then I get the e-mail notice of build failure. 
 
@@ -29,7 +33,7 @@ But hooray! There is https://help.github.com/articles/page-build-failed-config-f
 
 I can either check line by line or simple go back to the original `_conf.yml` and re-enter my settings more carefully. I think maybe resetting the `baseurl` to `"/" was the problem. 
 
-And perhaps the problem is not with the Jekyll installation after all. In any event, there are YAML validators to try out, which could be neat.
+And perhaps the problem is not with the Jekyll installation after all.
 
 And so off and so forth. 
 
