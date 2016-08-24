@@ -1,25 +1,40 @@
 = Heckling Jekyll
+:hp:tags: Hub Press, Web log, Github, Open Source, DIY, publishing, words into typography, design, function, jekyll, yaml, beautiful-jekyll, themes, troubleshooting
 
-![Radio Days](https://github.com/Braytonio/Braytonio.github.io/blob/master/img/radio250.png)
+image::https://github.com/Braytonio/Braytonio.github.io/blob/master/img/radio250.png[Radio Days]
 
-I followed [Dean's instructions](http://deanattali.com/beautiful-jekyll/) to create a Beautiful Jekyll-themed site at [Braytonio.github.io](https://github.com/Braytonio/Braytonio.github.io/blob/master/_config.yml), cloning it into my project `dir` and editing it and its config file with [Prose.io](http://prose.io/#Braytonio). 
+I followed http://deanattali.com/beautiful-jekyll/[Dean's instructions] to create a Beautiful Jekyll-themed site at https://braytonio.github.io/[Braytonio.github.io], cloning it into my project `dir` and editing it and its config file with http://prose.io/#Braytonio[Prose.io]. 
 
 No joy. <!--more-->
 
-I commit my changes after editing `aboutme.md` but the page does not update with its new title, the «Irony Ant Bloc» (an anagram of my name).
+I commit my changes after editing `aboutme.md` and filling out variables in **config.yml** but the page does not update with its new title, the «Irony Ant Bloc» (an anagram of my name).
 
-I clone the repo to my machine to work on it here but now my jekyll installation makes fubar noise. I mess with that for a while and then manage to start building with `bundle exec jekyll build`. But this yields
+I clone the repo to my machine to work on it here but now my jekyll installation makes fubar noises. 
+
+I mess with that for a while and then manage to start building with `bundle exec jekyll build`. But this yields
 
 > control characters are not allowed at line 1, column 1
 
-[Urgh!](https://en.wikipedia.org/wiki/Urgh!_A_Music_War).
+=== Urgh! (A Music War)
+
+https://en.wikipedia.org/wiki/Urgh!_A_Music_War[Urgh!]
+
+(I actually attended that groundbreaking event and had my picture on the cover of Surfer magazine as part of the Dead Boys mosh pit.)
 
 And then I get the e-mail notice of build failure. 
 
-Hooray! There is [advice](https://help.github.com/articles/page-build-failed-config-file-error/). I can either check line by line or simple go back to the original `_conf.yml` and re-enter my settings. I think maybe resetting the `baseurl` to `"/" was the problem. And perhaps the problem is not with the Jekyll installation after all. In any event, there are YAML validators to try out, which is neat-o.
+=== Welcome Advice That Werks
 
-And so and so forth. 
+But hooray! There is https://help.github.com/articles/page-build-failed-config-file-error/[advice]. 
+
+I can either check line by line or simple go back to the original `_conf.yml` and re-enter my settings more carefully. I think maybe resetting the `baseurl` to `"/" was the problem. And perhaps the problem is not with the Jekyll installation after all. In any event, there are YAML validators to try out, which is neat-o.
+
+And so off and so forth. 
+
+=== Neuzinha, Muse of the Digital Arts
 
 Neuza is actually excited at the prospect of me [building her a groovy Web site](https://github.com/neuza-paranhos/neuza-paranhos.github.io) where she can publish all her fabulous writings. 
 
-She sometimes refers to herself as «computer widow» because I spend so much time hacking away at digital windmills, so it is nice to have the vote of confidence. I think I will [try out Pelican](https://www.notionsandnotes.org/tech/web-development/pelican-static-blog-setup.html) for this modest domestic project.
+She sometimes refers to herself as «computer widow» because I spend so much time hacking away at digital windmills, so it is nice to have the vote of confidence. I was surprised yesterday when she said she knew what Github was. I guess I should not have been: she and Sergio have been working for a client in the Google family of fantastically advanced ventures.  
+
+I think I will https://www.notionsandnotes.org/tech/web-development/pelican-static-blog-setup.html[try out Pelican] for this modest domestic project.
