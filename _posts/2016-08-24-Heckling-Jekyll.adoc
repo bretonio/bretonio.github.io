@@ -17,7 +17,7 @@ I mess with that for a while and then manage to start building with `bundle exec
 
 https://en.wikipedia.org/wiki/Urgh!_A_Music_War[Urgh!]
 
-(I actually attended that groundbreaking event and had my picture on the cover of Surfer magazine as part of the Dead Boys mosh pit.)
+(I actually attended that groundbreaking event. I even had my picture on the cover of *Surfer* magazine as part of the Dead Boys mosh pit.)
 
 And then I get the e-mail notice of build failure. 
 
