@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 24 Aug 2016 18:38:15 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Heckling Jekyll]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 24 Aug 2016 19:04:54 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Heckling Jekyll]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="imageblock">
 <div class="content">
@@ -20,18 +20,28 @@
 <div class="paragraph">
 <p>I mess with that for a while and then manage to start building with <code>bundle exec jekyll build</code>. But this yields</p>
 </div>
+<div class="quoteblock">
+<blockquote>
 <div class="paragraph">
-<p>&gt;&gt; control characters are not allowed at line 1, column 1</p>
+<p>control characters are not allowed at line 1, column 1</p>
+</div>
+</blockquote>
+</div>
+<div class="paragraph">
+<p>Urgh!</p>
 </div>
 </div>
 </div>
 <div class="sect2">
 <h3 id="_urgh_a_music_war">Urgh! (A Music War)</h3>
 <div class="paragraph">
-<p><a href="https://en.wikipedia.org/wiki/Urgh!_A_Music_War">Urgh!</a></p>
+<p>I say again: <a href="https://en.wikipedia.org/wiki/Urgh!_A_Music_War">Urgh!</a></p>
 </div>
 <div class="paragraph">
-<p>(I actually attended that groundbreaking event. I even had my picture on the cover of <strong>Surfer</strong> magazine as part of the Dead Boys mosh pit.)</p>
+<p>(I actually attended that groundbreaking musical  event.</p>
+</div>
+<div class="paragraph">
+<p>I even had my picture on the cover of <strong>Surfer</strong> magazine as part of the Dead Boys mosh pit.)</p>
 </div>
 <div class="paragraph">
 <p>And then I get the e-mail notice of build failure.</p>
@@ -46,7 +56,7 @@
 <p>I can either check line by line or simple go back to the original <code>_conf.yml</code> and re-enter my settings more carefully. I think maybe resetting the <code>baseurl</code> to `"/" was the problem.</p>
 </div>
 <div class="paragraph">
-<p>And perhaps the problem is not with the Jekyll installation after all. In any event, there are YAML validators to try out, which could be neat.</p>
+<p>And perhaps the problem is not with the Jekyll installation after all.</p>
 </div>
 <div class="paragraph">
 <p>And so off and so forth.</p>
