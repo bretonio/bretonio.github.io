@@ -1,0 +1,16 @@
+= Bretonio Groks Project Pages
+:hp-tags: HubPress, Blog, Open Source, 	Hugo, Jekyll, GitHub, Hosting, Publishing, Pelican, anagrams, oulipo
+
+Success. I used a ready-made [Beautiful Jekyll site] to bootstrap my ass into mounting my own personal [GitHub] page.
+
+It has hierarchical pull-down menus like Bootstrap, which I wanted.
+
+Then I successfully followed instructions, like a good kindergartener, to create a project page.
+
+Now to [build Neuza a personal page] -- perhaps with Beautiful Hugo -- and myself a portfolio of project sites using different site generators and themes. 
+
+For hosting portfolios and organizational profile, I am searching for themes and frameworks more akin to portal CMSes, with blogging playing second fiddle. 
+
+=== BFD, Dude
+
+Big deal, you might say, but for me it was all a stroke of enlightening.	
