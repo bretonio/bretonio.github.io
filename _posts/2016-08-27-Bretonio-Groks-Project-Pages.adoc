@@ -1,6 +1,35 @@
 = Bretonio Groks Project Pages
 :hp-tags: HubPress, blog, github, project pages.
 
-https://github.com/HubPress/hubpress.io/blob/master/Writers_Guide.adoc#hp-tags-for-metadata-tags[ASCIIDoc] just makes me angry and confused. I am sorry to say. This is why I intend to adapt one of my GitHub project pages for blogging progress, if any, to my https://github.com/HubPress/hubpress.io/blob/master/Writers_Guide.adoc#hp-tags-for-metadata-tags[GitLab projects]. Abandoning Hubpress, so sorry. It taught me things, valuable things.
+https://github.com/HubPress/hubpress.io/blob/master/Writers_Guide.adoc#hp-tags-for-metadata-tags[ASCIIDoc] just makes me angry and confused. I am sorry to say. This is partly why I intend to adapt one of my GitHub project pages for blogging my progress, if any, on my https://github.com/HubPress/hubpress.io/blob/master/Writers_Guide.adoc#hp-tags-for-metadata-tags[GitLab projects]. 
 
-I have set my wife up with [a Web log that seems to please her]	. A pretty standard https://startbootstrap.com/template-overviews/clean-blog/[Clean Blog] theme, but then I am not exactly the Le Corbusier of Web sites. Now we just need an image of our own. Perhaps a stock photo of an old-time https://en.wikipedia.org/wiki/Linotype_machine[linotype machine]. 
+== Bretônio Decamps
+
+Yes, I guess I am abandoning Hubpress, so sorry. It taught me things, basic & valuable things. Really. It is just that I am having success pushing project pages now and those can fill the bill for online notetaking needs, along with those project wikis. 
+
+Big. Britches
+
+Meantime I have set my wife up with https://neuza-paranhos.github.io/2016/08/27/hello-world/[a Web log that seems to please her]. 
+
+Built it with Hexo. Uses a pretty standard https://startbootstrap.com/template-overviews/clean-blog/[Clean Blog] theme, but then I am not exactly the Le Corbusier of Web sites. 
+
+Now we just need a background image of our own. Perhaps a stock photo of an old-time https://en.wikipedia.org/wiki/Linotype_machine[linotype machine]. I would like to tweak the taxonomy so as to create repositories of writings in the different genres Neuza works in: fiction, crónicas ...
+
+Oh, and lest I forget: We need to translate the bugiganga into Portuguese as well.
+
+== My Node.js Mess
+
+still having difficulties with Node.js and the `npm` installer in Arch Linux. 
+
+In some cases installation works and the command is available to in `/usr/bin/` or wherever. 
+
+In other cases, not so much. Much googling to little avail so far, though as I said I succeeded in installing, say, http://assemble.io/[Assemble].
+
+== Smelling the Flores
+
+Neuza tried  to interest me in a walk in the park just now, with the three meninas. Served me a mamão and a banana tapioca. No more coffee after 2:00 p.m. she says. My baby worries about me and my endless damned infernal computer noodling. 
+
+She is right. I do not deserve her! But we have a  standing idiot box date at six every day. Watch Netflix while The News cooks the jantar. 
+
+Currently nearly to the end of **Lost** if you can believe our cultural backwardness. We hear the ending really sucks.
+
