@@ -1,16 +1,6 @@
 = Bretonio Groks Project Pages
-:hp-tags: HubPress, Blog, Open Source, 	Hugo, Jekyll, GitHub, Hosting, Publishing, Pelican, anagrams, oulipo
+:hp-tags: HubPress, blog, github, project pages.
 
-Success. I used a ready-made [Beautiful Jekyll site] to bootstrap my ass into mounting my own personal [GitHub] page.
+https://github.com/HubPress/hubpress.io/blob/master/Writers_Guide.adoc#hp-tags-for-metadata-tags[ASCIIDoc] just makes me angry and confused. I am sorry to say. This is why I intend to adapt one of my GitHub project pages for blogging progress, if any, to my https://github.com/HubPress/hubpress.io/blob/master/Writers_Guide.adoc#hp-tags-for-metadata-tags[GitLab projects]. Abandoning Hubpress, so sorry. It taught me things, valuable things.
 
-It has hierarchical pull-down menus like Bootstrap, which I wanted.
-
-Then I successfully followed instructions, like a good kindergartener, to create a project page.
-
-Now to [build Neuza a personal page] -- perhaps with Beautiful Hugo -- and myself a portfolio of project sites using different site generators and themes. 
-
-For hosting portfolios and organizational profile, I am searching for themes and frameworks more akin to portal CMSes, with blogging playing second fiddle. 
-
-=== BFD, Dude
-
-Big deal, you might say, but for me it was all a stroke of enlightening.	
+I have set my wife up with [a Web log that seems to please her]	. A pretty standard https://startbootstrap.com/template-overviews/clean-blog/[Clean Blog] theme, but then I am not exactly the Le Corbusier of Web sites. Now we just need an image of our own. Perhaps a stock photo of an old-time https://en.wikipedia.org/wiki/Linotype_machine[linotype machine]. 
