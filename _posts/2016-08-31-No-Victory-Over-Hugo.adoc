@@ -2,7 +2,7 @@
 
 I lied the other day. 
 
-I am now able to push Web sites built generators like https://neuza-paranhos.github.io/[Hexo] and Pelican to GitHub Pages, but not Hugo. 
+I am now able to push Web sites built with generators like https://neuza-paranhos.github.io/[Hexo] and Pelican to GitHub Pages, but not Hugo. 
 
 I cannot understand it. 
 
@@ -34,12 +34,16 @@ The story plays second fiddle today  to coverage of a shooting on a Rio beach in
 
 The Sambodian subliminal message: «All is Quiet on the Political Front.» 
 
-The interim government is large and in charge and almost certainly not going anywhere -- Globo is already referring to the party of the president as the «opposition» -- so go ahead, foreign investor and make your long-term plans.
+The interim government is large and in charge and almost certainly not going anywhere -- Globo is already referring to the party of the president as the «opposition» -- so go ahead, foreign investor and make your long-term plans. And yes, we plan to privatize like no tomorrow so get your checkbooks ready! 
 
-=== Huck Finnegan Rehab Again
+=== Huck Finnegan & The Space Case
 
 I would normally be in rehab today but I am doing a Huck Finn number. Again. 
 
-Today being our *rodizio* -- one day a week when you cannot drive from 9 to 5 on the Sambodian streets -- and lacking funds on my **bilhete único* -- a Sambodian Metro Pass -- I resolve to sleep late and then hack GitHub Pages until our Netflix hour. 
+Today being our *rodizio* -- one day a week when you cannot drive from 9 to 5 on the Sambodian streets -- and lacking funds on my **bilhete único* -- a Sambodian Metro Pass -- I resolve to sleep late and then hack GitHub Pages --  I want to make a Pelican site with https://github.com/getpelican/pelican-themes/tree/master/backdrop[backdrop] --  until our Netflix hour. 
 
-For people of our certain age, we are really into https://en.wikipedia.org/wiki/The_Get_Down[The Get Down], which already has a Wikipedia page as extensive as that of https://en.wikipedia.org/wiki/The_Get_Down[Ramon Llull].
+For people of a certain age, we are really into https://en.wikipedia.org/wiki/The_Get_Down[The Get Down], which already has a Wikipedia page as extensive as that of https://en.wikipedia.org/wiki/The_Get_Down[Ramon Llull].
+
+But we are not really so old as that. I remember the mainstreaming of Grandmaster Flash and Kurtis Blow and to a lesser extent  https://en.wikipedia.org/wiki/Planet_Rock:_The_Album[Afrika Baambataa] from freshman in college days, when me and all my friends worked all summer keeping http://kspc.org/[The Space] on the air. 
+
+My DJ namme was Joey Dharma.
