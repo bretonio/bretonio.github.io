@@ -1,4 +1,5 @@
 = No Victory Over Hugo
+:hp:tags: brasil, brazil, politics, web, pelican, hugo, hexo, static site, jekyll, themes, radio, dj, disk jockey, hip hop, github pages, hubpress, huck finn, pomona college, netflix
 
 I lied the other day. 
 
@@ -10,13 +11,15 @@ Building https://neuza-paranhos.github.io/2016/08/27/hello-world/[a Hexo site] i
 
 This is supposed to be the trick to doing the same with a Hugo site, but I cannot get it to work. 
 
-http://philippantar.com/posts/how-i-deploy-to-github-pages/[Some suggest] copying the contents of the `public` folder over to a separate folder from which you will push.
+http://philippantar.com/posts/how-i-deploy-to-github-pages/[Some suggest] copying the contents of the `public` folder over to a separate folder, from which you will push.
 
-image::https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/githubhugoghostw450x.png
+Others suggest using two branches of the same repository, for source and for output. The logic of it, and those ASCII http://www.textualscholarship.org/stemmatics/[stemmatic diagrams], make me dizzy.
 
-I have a nice blog, https://gringolalia.github.io/[My Paraguayan Progress Report], with the http://themes.gohugo.io/ghostwriter/[ghostwriter] theme, that I want to use for charting my supposed technical progress.
+image::githubhugoghostw450x.png[The Ghostwriter WIth The Most Writers]
 
-In any case I should not go forward without finally http://readwrite.com/2013/10/02/github-for-beginners-part-2/[educating myself] about `git` and all its mysteries. https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/[This] is pretty basic, for example. 
+Here is the thing: I have a really nice simplke blog, https://gringolalia.github.io/[My Paraguayan Progress Report], above, with the http://themes.gohugo.io/ghostwriter/[ghostwriter] theme, which I want to use for charting my supposed technical progress instead of HubPress. 
+
+In any case I should not move forward without finally http://readwrite.com/2013/10/02/github-for-beginners-part-2/[educating myself] about `git` and all its mysteries. https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/[This] is pretty basic, for example. 
 
 I guess I am the kind of guy who just jumps right in and does not read the freaking manual until he has developed ulcers googling solutions he does not really grok.
 
