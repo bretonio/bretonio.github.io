@@ -1,0 +1,17 @@
+= No Victory Over Hugo
+
+I lied the other day. 
+
+I am now able to push Web sites built generators like https://neuza-paranhos.github.io/[Hexo] and Pelican to GitHub Pages, but not Hugo. 
+
+I cannot understand it. Building a Hexo site in the local repo, for example. writes everything to the `public` directory. 
+
+This is supposed to be the trick to doing the same with a Hugo site, but I cannot get it to work. 
+
+http://philippantar.com/posts/how-i-deploy-to-github-pages/[Some suggest] copying the contents of the `public` folder over to the folder from which you will push.
+
+image::https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/githubhugoghostw450x.png
+
+I have a nice blog, the Paraguayan Progress Report, with ghostwriter theme, that I want to use for charting my supposed technical progress.
+
+In any case I should not go forward without finally educating myself about `git` and all its mysteries. I am the kind of guy who just jumps right in and does not read the manual until he has developed ulcers googling solutions he does not really grok.
