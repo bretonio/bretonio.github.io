@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 31 Aug 2016 15:19:41 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[No Victory Over Hugo]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 31 Aug 2016 15:49:30 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[No Victory Over Hugo]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>I lied the other day.</p>
@@ -16,16 +16,21 @@
 <p>This is supposed to be the trick to doing the same with a Hugo site, but I cannot get it to work.</p>
 </div>
 <div class="paragraph">
-<p><a href="http://philippantar.com/posts/how-i-deploy-to-github-pages/">Some suggest</a> copying the contents of the <code>public</code> folder over to a separate folder from which you will push.</p>
+<p><a href="http://philippantar.com/posts/how-i-deploy-to-github-pages/">Some suggest</a> copying the contents of the <code>public</code> folder over to a separate folder, from which you will push.</p>
 </div>
 <div class="paragraph">
-<p>image::https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/githubhugoghostw450x.png</p>
+<p>Others suggest using two branches of the same repository, for source and for output. The logic of it, and those ASCII <a href="http://www.textualscholarship.org/stemmatics/">stemmatic diagrams</a>, make me dizzy.</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://bretonio.github.io/images/githubhugoghostw450x.png" alt="The Ghostwriter WIth The Most Writers">
+</div>
 </div>
 <div class="paragraph">
-<p>I have a nice blog, <a href="https://gringolalia.github.io/">My Paraguayan Progress Report</a>, with the <a href="http://themes.gohugo.io/ghostwriter/">ghostwriter</a> theme, that I want to use for charting my supposed technical progress.</p>
+<p>Here is the thing: I have a really nice simplke blog, <a href="https://gringolalia.github.io/">My Paraguayan Progress Report</a>, above, with the <a href="http://themes.gohugo.io/ghostwriter/">ghostwriter</a> theme, which I want to use for charting my supposed technical progress instead of HubPress.</p>
 </div>
 <div class="paragraph">
-<p>In any case I should not go forward without finally <a href="http://readwrite.com/2013/10/02/github-for-beginners-part-2/">educating myself</a> about <code>git</code> and all its mysteries. <a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">This</a> is pretty basic, for example.</p>
+<p>In any case I should not move forward without finally <a href="http://readwrite.com/2013/10/02/github-for-beginners-part-2/">educating myself</a> about <code>git</code> and all its mysteries. <a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">This</a> is pretty basic, for example.</p>
 </div>
 <div class="paragraph">
 <p>I guess I am the kind of guy who just jumps right in and does not read the freaking manual until he has developed ulcers googling solutions he does not really grok.</p>
