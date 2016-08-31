@@ -1,4 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 28 Aug 2016 19:28:30 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Bretonio Groks Project Pages]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 31 Aug 2016 15:19:41 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[No Victory Over Hugo]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>I lied the other day.</p>
+</div>
+<div class="paragraph">
+<p>I am now able to push Web sites built with generators like <a href="https://neuza-paranhos.github.io/">Hexo</a> and Pelican to GitHub Pages, but not Hugo.</p>
+</div>
+<div class="paragraph">
+<p>I cannot understand it.</p>
+</div>
+<div class="paragraph">
+<p>Building <a href="https://neuza-paranhos.github.io/2016/08/27/hello-world/">a Hexo site</a> in the local repo, for example. writes everything to the <code>public</code> directory and there is no <code>index.html</code> in the root. Unlike <a href="https://braytonio.github.io/">Jekyll</a> which writes it all to root. But eppur se muove.</p>
+</div>
+<div class="paragraph">
+<p>This is supposed to be the trick to doing the same with a Hugo site, but I cannot get it to work.</p>
+</div>
+<div class="paragraph">
+<p><a href="http://philippantar.com/posts/how-i-deploy-to-github-pages/">Some suggest</a> copying the contents of the <code>public</code> folder over to a separate folder from which you will push.</p>
+</div>
+<div class="paragraph">
+<p>image::https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/githubhugoghostw450x.png</p>
+</div>
+<div class="paragraph">
+<p>I have a nice blog, <a href="https://gringolalia.github.io/">My Paraguayan Progress Report</a>, with the <a href="http://themes.gohugo.io/ghostwriter/">ghostwriter</a> theme, that I want to use for charting my supposed technical progress.</p>
+</div>
+<div class="paragraph">
+<p>In any case I should not go forward without finally <a href="http://readwrite.com/2013/10/02/github-for-beginners-part-2/">educating myself</a> about <code>git</code> and all its mysteries. <a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">This</a> is pretty basic, for example.</p>
+</div>
+<div class="paragraph">
+<p>I guess I am the kind of guy who just jumps right in and does not read the freaking manual until he has developed ulcers googling solutions he does not really grok.</p>
+</div>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_brasilianas_of_the_day">Brasilianas of the Day</h3>
+<div class="paragraph">
+<p>Here in Brazil, the Senate will start voting on the impeachment charges against President Dilma Rousseff. Ordinarily I would be very interested in following the media blitz surrounding the proceedings on  <a href="http://tupiwire.wordpress.com">The New World Lusophone Sousaphone</a>. I am after all a <a href="http://complit.berkeley.edu/">trained and licensed</a> Barthesian, though not McLuhanite, interpreter of mass culture.</p>
+</div>
+<div class="paragraph">
+<p>Lately, however, this sort of thing just makes me nervous.</p>
+</div>
+<div class="paragraph">
+<p>The coup will be consummated and there is nothing any can doup about it.</p>
+</div>
+<div class="paragraph">
+<p><a href="https://braytonio.github.io/2016-08-29-der-process/">What mainly impresses one</a> is how much the Glogo-dominated media has underplayed the story, with the exception of the final day of Rousseff&#8217;s testimony, covered closely by dozens of international news sources.</p>
+</div>
+<div class="paragraph">
+<p>The story plays second fiddle today  to coverage of a shooting on a Rio beach involving a Polish tourist, as it played third bassoon the other day to the earthquake in Italy. <a href="https://books.google.com.br/books?id=yF2SG8BFDwkC&amp;pg=PA249&amp;lpg=PA249&amp;dq=umberto+eco+media+bias&amp;source=bl&amp;ots=Z1PBhiUW4L&amp;sig=Ct05RJzkaq9sxRK3XffNoumrjXk&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiDzYW99OvOAhUMjpAKHULeCqAQ6AEIMTAD#v=onepage&amp;q=umberto%20eco%20media%20bias&amp;f=false">Umberto Eco</a> (PDF) notes this as one of his ten categories of <a href="http://www.mediabias.it/">bias in the Italian media</a></p>
+</div>
+<div class="paragraph">
+<p>The Sambodian subliminal message: «All is Quiet on the Political Front.»</p>
+</div>
+<div class="paragraph">
+<p>The interim government is large and in charge and almost certainly not going anywhere&#8201;&#8212;&#8201;Globo is already referring to the party of the president as the «opposition»&#8201;&#8212;&#8201;so go ahead, foreign investor and make your long-term plans. And yes, we plan to privatize like no tomorrow so get your checkbooks ready!</p>
+</div>
+</div>
+<div class="sect2">
+<h3 id="_huck_finnegan_the_space_case">Huck Finnegan &amp; The Space Case</h3>
+<div class="paragraph">
+<p>I would normally be in rehab today but I am doing a Huck Finn number. Again.</p>
+</div>
+<div class="paragraph">
+<p>Today being our <strong>rodizio</strong>&#8201;&#8212;&#8201;one day a week when you cannot drive from 9 to 5 on the Sambodian streets&#8201;&#8212;&#8201;and lacking funds on my <strong>*bilhete único</strong>&#8201;&#8212;&#8201;a Sambodian Metro Pass&#8201;&#8212;&#8201;I resolve to sleep late and then hack GitHub Pages&#8201;&#8212;&#8201; I want to make a Pelican site with <a href="https://github.com/getpelican/pelican-themes/tree/master/backdrop">backdrop</a>&#8201;&#8212;&#8201; until our Netflix hour.</p>
+</div>
+<div class="paragraph">
+<p>For people of a certain age, we are really into <a href="https://en.wikipedia.org/wiki/The_Get_Down">The Get Down</a>, which already has a Wikipedia page as extensive as that of <a href="https://en.wikipedia.org/wiki/The_Get_Down">Ramon Llull</a>.</p>
+</div>
+<div class="paragraph">
+<p>But we are not really so old as that. I remember the mainstreaming of Grandmaster Flash and Kurtis Blow and to a lesser extent  <a href="https://en.wikipedia.org/wiki/Planet_Rock:_The_Album">Afrika Baambataa</a> from freshman in college days, when me and all my friends worked all summer keeping <a href="http://kspc.org/">The Space</a> on the air.</p>
+</div>
+<div class="paragraph">
+<p>My DJ namme was Joey Dharma.</p>
+</div>
+</div>]]></description><link>https://bretonio.github.io/2016/08/31/No-Victory-Over-Hugo.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/08/31/No-Victory-Over-Hugo.html</guid><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Wed, 31 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Bretonio Groks Project Pages]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p><a href="https://github.com/HubPress/hubpress.io/blob/master/Writers_Guide.adoc#hp-tags-for-metadata-tags">ASCIIDoc</a> just makes me angry and confused. I am sorry to say. This is partly why I intend to adapt one of my GitHub project pages for blogging my progress, if any, on my <a href="https://github.com/HubPress/hubpress.io/blob/master/Writers_Guide.adoc#hp-tags-for-metadata-tags">GitLab projects</a>.</p>
