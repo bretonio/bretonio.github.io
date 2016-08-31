@@ -4,14 +4,28 @@ I lied the other day.
 
 I am now able to push Web sites built generators like https://neuza-paranhos.github.io/[Hexo] and Pelican to GitHub Pages, but not Hugo. 
 
-I cannot understand it. Building a Hexo site in the local repo, for example. writes everything to the `public` directory. 
+I cannot understand it. 
+
+Building https://neuza-paranhos.github.io/2016/08/27/hello-world/[a Hexo site] in the local repo, for example. writes everything to the `public` directory and there is no `index.html` in the root. Unlike https://braytonio.github.io/[Jekyll] which writes it all to root. But eppur se muove.
 
 This is supposed to be the trick to doing the same with a Hugo site, but I cannot get it to work. 
 
-http://philippantar.com/posts/how-i-deploy-to-github-pages/[Some suggest] copying the contents of the `public` folder over to the folder from which you will push.
+http://philippantar.com/posts/how-i-deploy-to-github-pages/[Some suggest] copying the contents of the `public` folder over to a separate folder from which you will push.
 
 image::https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/githubhugoghostw450x.png
 
-I have a nice blog, the Paraguayan Progress Report, with ghostwriter theme, that I want to use for charting my supposed technical progress.
+I have a nice blog, https://gringolalia.github.io/[My Paraguayan Progress Report], with the http://themes.gohugo.io/ghostwriter/[ghostwriter] theme, that I want to use for charting my supposed technical progress.
 
-In any case I should not go forward without finally educating myself about `git` and all its mysteries. I am the kind of guy who just jumps right in and does not read the manual until he has developed ulcers googling solutions he does not really grok.
+In any case I should not go forward without finally http://readwrite.com/2013/10/02/github-for-beginners-part-2/[educating myself] about `git` and all its mysteries. https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/[This] is pretty basic, for example. 
+
+I guess I am the kind of guy who just jumps right in and does not read the freaking manual until he has developed ulcers googling solutions he does not really grok.
+
+=== Brasilianas of the Day
+
+Here in Brazil, the Senate will start voting on the impeachment charges against President Dilma Rousseff. Ordinarily I would be very interested in following the media blitz surrounding the proceedings on  http://tupiwire.wordpress.com[The New World Lusophone Sousaphone]. I am after all a http://complit.berkeley.edu/[trained and licensed] Barthesian, though not McLuhanite, interpreter of mass culture.
+
+https://braytonio.github.io/2016-08-29-der-process/[What mainly impresses one] is how much the Glogo-dominated media has underplayed the story, with the exception of the final day of Rousseff's testimony, covered closely by dozens of international news sources. The story plays second fiddle today  to coverage of a shooting on a Rio beach involving a Polish tourist, as it played third bassoon the other day to the earthquake in Italy. The subliminal message: «All is Quiet on the Political Front.» The interim government is large and in charge and not likely to be going anywhere. 
+
+Lately, however, this sort of thing just makes me nervous. 
+
+The coup will be consummated and there is nothing any can doup about it.
