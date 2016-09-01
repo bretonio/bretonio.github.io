@@ -1,0 +1,29 @@
+= The App Ate My Homework 
+
+I wish I had my personal https://www.dokuwiki.org/dokuwiki#[dokuwiki] online so I could work on and with it from any old machine ...  the x86 Windows box at the cancer ward or any Sambodian what they call a «LAN house».
+
+To do this week ... but oh, http://bretonio.github.io[hubpress] has eaten a very long and carefully pondered post on this subject, in Portuguese. 
+
+(I had wanted to blog to Brazilian friends that the http://obicho.wordpress.comn[Bicho-Preguiça] was https://github.com/bretonio/bretonio.github.io[gitfiddling] while Brasília burned. Explaining my lack of comment on catastrophic political developments. I would have had to explain that a gitfiddle is *gíria* for a guitar or *violão* and that a fiddle is gíria for a *violino*.)
+
+But Hubpress ate my post. The interface is kind of rickety that way. 
+
+(How about some tooltip text to say what the function of the Font Awesome icon is for, for those of us illiterate in the postliterate world of the wild, wild Web? The eyeball is preview, am I right? The hamburger is widely known. But what about the gears?)
+
+The `edit post` function simply does not work for me, for example.
+
+That is how I lost my post, inadvertently saving after it wiped out the content in the course of opening it. It seems to want to select all and Ctl-V the Ctl-C buffer for some reason. 
+
+But now to work. 
+
+Once I master pushing Hugo sites to GitHub, I want to switch over to a bilingual tech & design blog, https://github.com/bretonio/bretonio.github.io/blob/master/images/pelican1.png[The Paraguayan Progress Report].  
+
+Or, «Desordem é Progresso»
+
+I have another Hugo portfolio item planned for Hurley, in honor of Hugo Reyes of *Lost*. Hugo has a very good desigh library.
+
+And I want to create an archive of past writings for Neuza where she can upload every bit of fiction and *crónica* she has on her superannuated Windows 7 laptop, with new writings added in blog format. Something very professional-looking. I actually like the simplicity of Bootswatch more than most other frameworks. 
+
+But now I am repeating myself. (Shakes fist.) Damn you, funky Hubpress! (It is actually a neat little app, like http://prose.io/#bretonio[prose.io], but why design a static site generator to behave like a blog CMS when you have an embarassment of blog CMSes to choose from?)
+
+image::pelican1.png
