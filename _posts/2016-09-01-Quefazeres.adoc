@@ -1,5 +1,5 @@
 = Quefazeres
-:hp-tags: HubPress, blog, github, project pages, organization
+:hp-tags: HubPress, blog, github, project pages, organization, quefazeres, todos, hexo, pelican, jekyll, middleman, roots.cx, workflow, ruby, rake, pelican, python, node.js
 
 
 Eu quero fazer os seguinte durantes as semanas que vêm.
