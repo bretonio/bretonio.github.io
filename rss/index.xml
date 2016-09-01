@@ -1,4 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Wed, 31 Aug 2016 15:49:30 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[No Victory Over Hugo]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 01 Sep 2016 12:02:38 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Quefazeres]]></title><description><![CDATA[<div class="paragraph">
+<p>Eu quero fazer o seguinte durantes as semanas que vêm.</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>Conseguir por fim o <code>git push origin master</code> ao site pessoal <a href="https://github.com/gringolalia">gringolalia</a>. Tenho dificuldades com Hugo.</p>
+</li>
+<li>
+<p>Aprender <a href="https://middlemanapp.com/">middleman</a>.</p>
+</li>
+<li>
+<p>Installar Node.js e Python 3 nessa maldita máquina no rehab para poder trabalhar com Pelican e <a href="http://roots.cx">Roots</a> e outros durante o dia.</p>
+</li>
+<li>
+<p>Conseguir dinheiro suficiente para botar meu wiki num <a href="http://sambodianas.nfshost.com/">servidor próprio</a>, accesível de qualquer lugar.</p>
+</li>
+<li>
+<p>Criar um site para a organização <a href="https://sambodianasllc.github.io/">Sambodianas LLC</a>, com Jekyll, utilizando <a href="https://jekyllthemes.io/theme/13455621/jekyll-incorporated">jekyll incorporated</a>, como amostra, ou talvez <a href="https://jekyllthemes.io/theme/23162068/agency-jekyll-theme">Agency</a> ou outro tipo de site do qual a Neuza gostaria de montar&#8201;&#8212;&#8201;repositório de escritos da última década.</p>
+</li>
+<li>
+<p>Criar um site de organização para Neuza, pode ser com Hexo.</p>
+</li>
+<li>
+<p>Criar site de projeto com Jekyll e os temas <a href="https://jekyllthemes.io/theme/9884000/scribble">scribble</a> ou <a href="https://jekyllthemes.io/theme/9884000/scribble">flex</a>, ou talvez <a href="https://jekyllthemes.io/theme/16262460/redcup">redcup</a> ou qualquer outro com a simplicidade desejada.</p>
+</li>
+<li>
+<p>No Jekyll, entender o mecanismo <code>rake site:publish</code>.</p>
+</li>
+<li>
+<p>Montar o site pessoal [ColinBretonio] utilizando Pelican com o tema <a href="https://github.com/getpelican/pelican-themes/tree/master/backdrop">backdrop</a></p>
+</li>
+<li>
+<p>Montar o site de projeto victor utilizando Hugo com o tema <a href="http://themes.gohugo.io/beautifulhugo/">Beautiful Hugo</a>, ajustando alguns dos variáveis para melhor a apresentação (control sobre o <code>&#8592;-more-&#8594;</code> e o  poder to ajustar o tamanho e alinhamento das imagens)</p>
+</li>
+<li>
+<p>Começar um site em Hexo&#8201;&#8212;&#8201;talvez para nova organização&#8201;&#8212;&#8201;utilizando o tema <a href="https://github.com/ptsteadman/hexo-theme-corporate-example/blob/master/README.md">corporate</a>.</p>
+</li>
+</ul>
+</div>
+<div class="paragraph">
+<p>Isso deve ser trabalho suficiente para afastar o mal gosto na boca causado pela queda e degolação brutal da rainha de Sambodia. Brasileiros, o quê é isso?</p>
+</div>]]></description><link>https://bretonio.github.io/2016/09/01/Quefazeres.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/09/01/Quefazeres.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[ blog]]></category><category><![CDATA[ github]]></category><category><![CDATA[ project pages]]></category><category><![CDATA[ organization]]></category><category><![CDATA[ quefazeres]]></category><category><![CDATA[ todos]]></category><category><![CDATA[ hexo]]></category><category><![CDATA[ pelican]]></category><category><![CDATA[ jekyll]]></category><category><![CDATA[ middleman]]></category><category><![CDATA[ roots.cx]]></category><category><![CDATA[ workflow]]></category><category><![CDATA[ ruby]]></category><category><![CDATA[ rake]]></category><category><![CDATA[ pelican]]></category><category><![CDATA[ python]]></category><category><![CDATA[ node.js]]></category><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Thu, 01 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[No Victory Over Hugo]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>I lied the other day.</p>
