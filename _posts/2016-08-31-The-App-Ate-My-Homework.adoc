@@ -24,6 +24,6 @@ I have another Hugo portfolio item planned for Hurley, in honor of Hugo Reyes of
 
 And I want to create an archive of past writings for Neuza where she can upload every bit of fiction and *crónica* she has on her superannuated Windows 7 laptop, with new writings added in blog format. Something very professional-looking. I actually like the simplicity of Bootswatch more than most other frameworks. 
 
-But now I am repeating myself. (Shakes fist.) Damn you, funky Hubpress! (It is actually a neat little app, like http://prose.io/#bretonio[prose.io], but why design a static site generator to behave like a blog CMS when you have an embarassment of blog CMSes to choose from?)
+But now I am repeating myself. (Shakes fist.) Damn you, funky Hubpress! (It is actually a neat little app, like http://prose.io/#bretonio[prose.io], but why design a static site generator to behave like a blog CMS when you have http://www.flatphile.co/[an embarassment of blog-enabled CMSes] to choose from?)
 
 image::pelican1.png[]
