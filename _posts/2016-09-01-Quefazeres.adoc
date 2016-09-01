@@ -1,0 +1,13 @@
+= Quefazeres
+:hp-tags: HubPress, blog, github, project pages, organization
+
+
+Eu quer fazer seguinte durantes as semanas que vêm.
+
+* Conseguir `git push origin master` ao site pessoal https://github.com/gringolalia[gringolalia]
+* Criar um site para a organização https://sambodianasllc.github.io/[Sambodianas LLC] com Jekyll e os temas scribble 
+* Montar o site pessoal [ColinBretonio] utilizando Pelican com o tema https://github.com/getpelican/pelican-themes/tree/master/backdrop[backdrop]
+* Montar o site de projeto victor utilizando Hugo com o tema http://themes.gohugo.io/beautifulhugo/[Beautiful Hugo], ajustando alguns dos variáveis para melhor a apresentação (control sobre o `<--more-->` e o  poder to ajustar o tamanho e alinhamento das imagens)
+* Começar um site em Hexo -- talvez para nova organização -- utilizando o tema https://github.com/ptsteadman/hexo-theme-corporate-example/blob/master/README.md[corporate].
+
+
