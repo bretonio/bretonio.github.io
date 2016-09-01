@@ -26,4 +26,4 @@ And I want to create an archive of past writings for Neuza where she can upload 
 
 But now I am repeating myself. (Shakes fist.) Damn you, funky Hubpress! (It is actually a neat little app, like http://prose.io/#bretonio[prose.io], but why design a static site generator to behave like a blog CMS when you have an embarassment of blog CMSes to choose from?)
 
-image::pelican1.png
+image::pelican1.png[]
