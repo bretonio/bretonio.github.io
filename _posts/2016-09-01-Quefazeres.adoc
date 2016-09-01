@@ -1,6 +1,7 @@
 = Quefazeres
 :hp-tags: HubPress, blog, github, project pages, organization, quefazeres, todos, hexo, pelican, jekyll, middleman, roots.cx, workflow, ruby, rake, pelican, python, node.js
 
+image::firstlookingintohugo.png[]
 
 Eu quero fazer o seguinte durantes as semanas que vêm.
 
