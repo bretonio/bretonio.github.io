@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 01 Sep 2016 17:39:51 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[No Victory Over Hugo]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 01 Sep 2016 18:10:50 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[The App Ate My Homework]]></title><description><![CDATA[<div class="paragraph">
+<p>I wish I had my personal <a href="https://www.dokuwiki.org/dokuwiki#">dokuwiki</a> online so I could work on and with it from any old machine &#8230;&#8203;  the x86 Windows box at the cancer ward or any Sambodian what they call a «LAN house».</p>
+</div>
+<div class="paragraph">
+<p>To do this week &#8230;&#8203; but oh, <a href="http://bretonio.github.io">hubpress</a> has eaten a very long and carefully pondered post on this subject, in Portuguese.</p>
+</div>
+<div class="paragraph">
+<p>(I had wanted to blog to Brazilian friends that the <a href="http://obicho.wordpress.comn">Bicho-Preguiça</a> was <a href="https://github.com/bretonio/bretonio.github.io">gitfiddling</a> while Brasília burned. Explaining my lack of comment on catastrophic political developments. I would have had to explain that a gitfiddle is <strong>gíria</strong> for a guitar or <strong>violão</strong> and that a fiddle is gíria for a <strong>violino</strong>.)</p>
+</div>
+<div class="paragraph">
+<p>But Hubpress ate my post. The interface is kind of rickety that way.</p>
+</div>
+<div class="paragraph">
+<p>(How about some tooltip text to say what the function of the Font Awesome icon is for, for those of us illiterate in the postliterate world of the wild, wild Web? The eyeball is preview, am I right? The hamburger is widely known. But what about the gears?)</p>
+</div>
+<div class="paragraph">
+<p>The <code>edit post</code> function simply does not work for me, for example.</p>
+</div>
+<div class="paragraph">
+<p>That is how I lost my post, inadvertently saving after it wiped out the content in the course of opening it. It seems to want to select all and Ctl-V the Ctl-C buffer for some reason.</p>
+</div>
+<div class="paragraph">
+<p>But now to work.</p>
+</div>
+<div class="paragraph">
+<p>Once I master pushing Hugo sites to GitHub, I want to switch over to a bilingual tech &amp; design blog, <a href="https://github.com/bretonio/bretonio.github.io/blob/master/images/pelican1.png">The Paraguayan Progress Report</a>.</p>
+</div>
+<div class="paragraph">
+<p>Or, «Desordem é Progresso»</p>
+</div>
+<div class="paragraph">
+<p>I have another Hugo portfolio item planned for Hurley, in honor of Hugo Reyes of <strong>Lost</strong>. Hugo has a very good desigh library.</p>
+</div>
+<div class="paragraph">
+<p>And I want to create an archive of past writings for Neuza where she can upload every bit of fiction and <strong>crónica</strong> she has on her superannuated Windows 7 laptop, with new writings added in blog format. Something very professional-looking. I actually like the simplicity of Bootswatch more than most other frameworks.</p>
+</div>
+<div class="paragraph">
+<p>But now I am repeating myself. (Shakes fist.) Damn you, funky Hubpress! (It is actually a neat little app, like <a href="http://prose.io/#bretonio">prose.io</a>, but why design a static site generator to behave like a blog CMS when you have <a href="http://www.flatphile.co/">an embarassment of blog-enabled CMSes</a> to choose from?)</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://bretonio.github.io/images/pelican1.png" alt="pelican1.png">
+</div>
+</div>]]></description><link>https://bretonio.github.io/2016/08/31/The-App-Ate-My-Homework.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/08/31/The-App-Ate-My-Homework.html</guid><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Wed, 31 Aug 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[No Victory Over Hugo]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>I lied the other day.</p>
