@@ -1,5 +1,5 @@
 = Hugo: No Go
-:hp:tags: front-end, github, hugo, static site generator, hosting, push, workflow, automation
+:hp:tags: front-end, github, hugo, static site generator, hosting, push, workflow, automation, themes, deployment
 
 My Hugo experience has been really frustrating. I guess https://discuss.gohugo.io/t/i-am-really-confused-as-to-how-to-deploy-hugo-with-github/3669/7[I am not the only one].
 
@@ -11,12 +11,30 @@ I have followed http://codethejason.github.io/blog/setupghpages/[these instructi
 
 I have tested Netflify and Surge and am testing https://gohugo.io/tutorials/automated-deployments/[Wercker] and https://travis-ci.org/gringolalia/gringolalia[Travis]. 
 
+I have checked out a couple of https://github.com/spencerlyon2/hugo_gh_blog/blob/master/deploy.sh[deploy scripts].
+
 image::netlifyfailurescale.png[]
 
-In the case of Netflify and http://harmonious-advertisement.surge.sh/[Surge], the deploy succeeds, but the theme is missing. 
+=== Google Search & Deploy
 
-When I build the site with `hugo --theme=ghostwriter` and upload it to my local Web server, same problem. 
+In the case of Netflify and http://harmonious-advertisement.surge.sh/[Surge], the deploy succeeds, but the theme is missing. Just raw HTML, though 	there are folders and files for CCS, JS and SASS.  
 
-The stylesheets and other elements of style are present but the theme does not load. 
+When I build the site with `hugo --theme=ghostwriter` and upload it to my local Web server, same problem. I should not need to specify the stylesheet as it is in my `config.toml`
 
-image::surgetogringolalia.png[]
+Stylesheets and other elements of style are present in the deployed `public/` folder but the theme does not load. 
+
+image::surgetogringolalia.png[]https://www.netlify.com/blog/2015/10/06/a-step-by-step-guide-hugo-on-netlify/
+
+A fellow sufferer suggests removing the `.git` folder from the `themes/ghostwriter` folder.
+
+To no effect. I follow the Netflify tutorial and get the `no configuration file found` error.	
+
+> 12:27:23 PM: Error running command: Build script returned non-zero exit code: 255
+
+I copy the `gringolalia` folder into one called `glossalia`, remove the `.git` folder, create a new project with that name on gringolalia@github  and repeat `git init` and all that stuff.
+
+I really have to stop floundering and draw up a plan of attack. Hugo is a great tool with a wealth of themes to adapt and study, but I need to have time to actually write in https://brasilianas.github.io/[these writing spaces I keep setting up for myself]. 
+
+Ghostwriter in Hugo is not *so* fantastic that I just have to have it in my portfolio.
+
+I want to write criticism and essays in the genre of Camus and a cheap spy novel about money laundering and Uruguay and Paraguay. I have https://brasilianas.github.io/[a thing about Paraguay], this is true.  
