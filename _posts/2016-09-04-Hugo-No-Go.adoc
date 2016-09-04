@@ -23,7 +23,7 @@ When I build the site with `hugo --theme=ghostwriter` and upload it to my local 
 
 Stylesheets and other elements of style are present in the deployed `public/` folder but the theme does not load. 
 
-image::surgetogringolalia.png[]https://www.netlify.com/blog/2015/10/06/a-step-by-step-guide-hugo-on-netlify/
+image::surgetogringolalia.png[]
 
 A fellow sufferer suggests removing the `.git` folder from the `themes/ghostwriter` folder.
 
