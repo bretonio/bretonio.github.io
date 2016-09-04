@@ -1,0 +1,22 @@
+= Hugo: No Go
+:hp:tags: front-end, github, hugo, static site generator, hosting, push, workflow, automation
+
+My Hugo experience has been really frustrating. I guess https://discuss.gohugo.io/t/i-am-really-confused-as-to-how-to-deploy-hugo-with-github/3669/7[I am not the only one].
+
+With Hugo, I am able to build and serve locally all manner of remarkable sites with ease. It rocks. It rolls.
+
+But I just cannot seem to deploy these sites, to GitHub Pages or anywhere else.
+
+I have followed http://codethejason.github.io/blog/setupghpages/[these instructions], and variants for deploying to a personal or org page.
+
+I have tested Netflify and Surge and am testing https://gohugo.io/tutorials/automated-deployments/[Wercker] and https://travis-ci.org/gringolalia/gringolalia[Travis]. 
+
+image::netlifyfailurescale.png[]
+
+In the case of Netflify and http://harmonious-advertisement.surge.sh/[Surge], the deploy succeeds, but the theme is missing. 
+
+When I build the site with `hugo --theme=ghostwriter` and upload it to my local Web server, same problem. 
+
+The stylesheets and other elements of style are present but the theme does not load. 
+
+image::surgetogringolalia.png[]
