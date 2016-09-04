@@ -11,7 +11,7 @@ I have followed http://codethejason.github.io/blog/setupghpages/[these instructi
 
 I have tested Netflify and Surge and am testing https://gohugo.io/tutorials/automated-deployments/[Wercker] and https://travis-ci.org/gringolalia/gringolalia[Travis]. 
 
-I have checked out a couple of https://github.com/spencerlyon2/hugo_gh_blog/blob/master/deploy.sh[deploy scripts].
+I have checked out a couple of https://github.com/spencerlyon2/hugo_gh_blog/blob/master/deploy.sh[deploy scripts], including http://heiber.im/post/switching-to-hugo/[this one] for deploying to personal or org pages rather than project pages.
 
 image::netlifyfailurescale.png[]
 
