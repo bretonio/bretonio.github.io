@@ -61,7 +61,7 @@ Is there any online courseware on this subject?
 
 https://github.com/github/training-kit[Of course there is]! 
 
-Forking to bretonio ...
+Forking to https://github.com/bretonio[bretonio] ...
 
 I audited https://www.coursetalk.com/providers/coursera/courses/social-network-analysis[a great Coursera course] last year on social network analysis and visualization with https://gephi.org/[Gephi]. 
 
