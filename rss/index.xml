@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Sep 2016 16:02:12 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hugo: No Go]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Bretônio Sur La Github]]></title><description><![CDATA[Una Bitácora de Navegaciones]]></description><link>https://bretonio.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 08 Sep 2016 18:46:04 GMT</lastBuildDate><atom:link href="https://bretonio.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Hugo: No Go (Update)]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>My Hugo experience has been really frustrating. I guess <a href="https://discuss.gohugo.io/t/i-am-really-confused-as-to-how-to-deploy-hugo-with-github/3669/7">I am not the only one</a>.</p>
+</div>
+<div class="paragraph">
+<p>&gt;&gt;You can skip the whining and scroll down to where Surge turns out to be a very satisfactory partial solution. --Editor</p>
 </div>
 <div class="paragraph">
 <p>With Hugo, I am able to build and serve locally all manner of remarkable sites with ease. It rocks. It rolls.</p>
@@ -13,10 +16,10 @@
 <p>I have followed <a href="http://codethejason.github.io/blog/setupghpages/">these instructions</a>, and variants for deploying to a personal or org page.</p>
 </div>
 <div class="paragraph">
-<p>I have tested Netflify and Surge and am testing <a href="https://gohugo.io/tutorials/automated-deployments/">Wercker</a> and <a href="https://travis-ci.org/gringolalia/gringolalia">Travis</a>.</p>
+<p>I have tested Netflify and Surge and am testing <a href="https://gohugo.io/tutorials/automated-deployments/">Wercker</a> and <a href="https://travis-ci.org/gringolalia/gringolalia">Travis</a> and others. I am making a list. I am checking it twice.</p>
 </div>
 <div class="paragraph">
-<p>I have checked out a couple of <a href="https://github.com/spencerlyon2/hugo_gh_blog/blob/master/deploy.sh">deploy scripts</a>, including <a href="http://heiber.im/post/switching-to-hugo/">this one</a> for deploying to personal or org pages rather than project pages.</p>
+<p>I have checked out a couple of <a href="https://github.com/spencerlyon2/hugo_gh_blog/blob/master/deploy.sh">deploy scripts</a> as well, including <a href="http://heiber.im/post/switching-to-hugo/">this one</a> for deploying to personal or org pages rather than project pages.</p>
 </div>
 <div class="imageblock">
 <div class="content">
@@ -31,15 +34,13 @@
 <p>In the case of Netflify and <a href="http://harmonious-advertisement.surge.sh/">Surge</a>, the deploy succeeds, but the theme is missing. Just raw HTML, though 	there are folders and files for CCS, JS and SASS.</p>
 </div>
 <div class="paragraph">
-<p>When I build the site with <code>hugo --theme=ghostwriter</code> and upload it to my local Web server, same problem. I should not need to specify the stylesheet as it is in my <code>config.toml</code></p>
+<p>When I build the site with <code>hugo --theme=ghostwriter</code> and upload it to my local Web server, same problem.</p>
+</div>
+<div class="paragraph">
+<p>I should not need to specify the stylesheet as it is in my <code>config.toml</code></p>
 </div>
 <div class="paragraph">
 <p>Stylesheets and other elements of style are present in the deployed <code>public/</code> folder but the theme does not load.</p>
-</div>
-<div class="imageblock">
-<div class="content">
-<img src="https://bretonio.github.io/images/surgetogringolalia.png" alt="surgetogringolalia.png">
-</div>
 </div>
 <div class="paragraph">
 <p>A fellow sufferer suggests removing the <code>.git</code> folder from the <code>themes/ghostwriter</code> folder.</p>
@@ -61,12 +62,56 @@
 <p>I really have to stop floundering and draw up a plan of attack. Hugo is a great tool with a wealth of themes to adapt and study, but I need to have time to actually write in <a href="https://brasilianas.github.io/">these writing spaces I keep setting up for myself</a>.</p>
 </div>
 <div class="paragraph">
-<p>Ghostwriter in Hugo is not <strong>so</strong> fantastic that I just have to have it in my portfolio.</p>
+<p>Ghostwriter in Hugo is not <strong>so</strong> fantastic that I just have to have it in my portfolio. But I do like it.</p>
 </div>
 <div class="paragraph">
-<p>I want to write criticism and essays in the genre of Camus and a cheap spy novel about money laundering and Uruguay and Paraguay. I have <a href="https://brasilianas.github.io/">a thing about Paraguay</a>, this is true.</p>
+<p>I want to write criticism and essays in the genre of Camus and a cheap spy novel about money laundering and Uruguay and Paraguay. I have <a href="https://brasilianas.github.io/">a thing about Paraguay</a>, this is true.  I explain it <a href="https://gringolalia.surge.sh/2016/09/07/porque-sambodia/">here, in Portuguese</a>. I have decided to write all my front end development and design notes in Portuguese, for the practice.</p>
 </div>
-</div>]]></description><link>https://bretonio.github.io/2016/09/04/Hugo-No-Go.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/09/04/Hugo-No-Go.html</guid><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Sun, 04 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[The App Ate My Homework]]></title><description><![CDATA[<div class="paragraph">
+</div>
+<div class="sect2">
+<h3 id="_update_surge_and_my_urge_to_merge">Update: Surge and My Urge to Merge</h3>
+<div class="imageblock">
+<div class="content">
+<img src="https://bretonio.github.io/images/surgetogringolalia.png" alt="Urge to Surge">
+</div>
+</div>
+<div class="paragraph">
+<p>Okay, the second time through the list of third-party deploy options I discover that <a href="http://griongolalia.surge.sh">Surge</a> is the answer to my need to post sites to URLs that I can show to clients.</p>
+</div>
+<div class="paragraph">
+<p>Surge totally rocks. <code>npm install --global surge</code> and then just plain <code>surge</code> in your project directory.</p>
+</div>
+<div class="paragraph">
+<p>Prompts you for the folder to push and the subdomain and <strong>bazunga</strong>!</p>
+</div>
+<div class="paragraph">
+<p>What is their business model, I wonder?</p>
+</div>
+<div class="paragraph">
+<p>But this solution does not let me clone and push from a clone repo another computer, like the one in the <a href="https://en.wikipedia.org/wiki/Cancer_Ward">Cancer Ward</a> (Раковый Корпус). So I cannot push things like theme changes with version control. Handy to be able to check out your homework during your rehab down time, even if the Window XP machine&#8201;&#8212;&#8201;you heard right&#8201;&#8212;&#8201;is agonizingly slow.</p>
+</div>
+<div class="paragraph">
+<p><a href="http://prose.io/#bretonio">Prose.io</a> is one way to work from remote locations: Brazilian LAN houses or a laptop in a café or a chic <strong>padaria</strong> with WiFi or such like. But then you get those problems when you <code>git pull</code>. I really need to study <code>git</code> more systematically.</p>
+</div>
+<div class="paragraph">
+<p>Is there any online courseware on this subject?</p>
+</div>
+<div class="paragraph">
+<p><a href="https://github.com/github/training-kit">Of course there is</a>!</p>
+</div>
+<div class="paragraph">
+<p>Forking to bretonio &#8230;&#8203;</p>
+</div>
+<div class="paragraph">
+<p>I audited <a href="https://www.coursetalk.com/providers/coursera/courses/social-network-analysis">a great Coursera course</a> last year on social network analysis and visualization with <a href="https://gephi.org/">Gephi</a>.</p>
+</div>
+<div class="paragraph">
+<p>I was running my own crawls using <a href="http://www.cwr.cl/projects/WIRE/doc/">WIRE</a>, <a href="https://tupiwire.wordpress.com/2014/05/01/spidermen-wire-pajek/">churning the data in Pajek</a>, and visualizing the results.</p>
+</div>
+<div class="paragraph">
+<p>A big waste of my potentially productive&#8201;&#8212;&#8201;money-earning --time, but I enjoyed it a lot.  One of these days I will look into link analysis with <a href="http://wiki.apache.org/nutch/NewScoring">Nutch</a>, but for the time being I am busy enough with rehab, writing and studying the fabrication of sites.</p>
+</div>
+</div>]]></description><link>https://bretonio.github.io/2016/09/04/Hugo-No-Go-Update.html</link><guid isPermaLink="true">https://bretonio.github.io/2016/09/04/Hugo-No-Go-Update.html</guid><category><![CDATA[front-end]]></category><category><![CDATA[ github]]></category><category><![CDATA[ hugo]]></category><category><![CDATA[ static site generator]]></category><category><![CDATA[ hosting]]></category><category><![CDATA[ push]]></category><category><![CDATA[ workflow]]></category><category><![CDATA[ automation]]></category><category><![CDATA[ themes]]></category><category><![CDATA[ deployment]]></category><dc:creator><![CDATA[Colin Brayton]]></dc:creator><pubDate>Sun, 04 Sep 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[The App Ate My Homework]]></title><description><![CDATA[<div class="paragraph">
 <p>I wish I had my personal <a href="https://www.dokuwiki.org/dokuwiki#">dokuwiki</a> online so I could work on and with it from any old machine &#8230;&#8203;  the x86 Windows box at the cancer ward or any Sambodian what they call a «LAN house».</p>
 </div>
 <div class="paragraph">
