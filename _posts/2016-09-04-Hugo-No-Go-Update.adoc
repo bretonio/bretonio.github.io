@@ -1,7 +1,9 @@
-= Hugo: No Go
-:hp:tags: front-end, github, hugo, static site generator, hosting, push, workflow, automation, themes, deployment
+= Hugo: No Go (Update)
+:hp-tags: front-end, github, hugo, static site generator, hosting, push, workflow, automation, themes, deployment
 
 My Hugo experience has been really frustrating. I guess https://discuss.gohugo.io/t/i-am-really-confused-as-to-how-to-deploy-hugo-with-github/3669/7[I am not the only one].
+
+>>You can skip the whining and scroll down to where Surge turns out to be a very satisfactory partial solution. --Editor
 
 With Hugo, I am able to build and serve locally all manner of remarkable sites with ease. It rocks. It rolls.
 
@@ -9,9 +11,9 @@ But I just cannot seem to deploy these sites, to GitHub Pages or anywhere else.
 
 I have followed http://codethejason.github.io/blog/setupghpages/[these instructions], and variants for deploying to a personal or org page.
 
-I have tested Netflify and Surge and am testing https://gohugo.io/tutorials/automated-deployments/[Wercker] and https://travis-ci.org/gringolalia/gringolalia[Travis]. 
+I have tested Netflify and Surge and am testing https://gohugo.io/tutorials/automated-deployments/[Wercker] and https://travis-ci.org/gringolalia/gringolalia[Travis] and others. I am making a list. I am checking it twice. 
 
-I have checked out a couple of https://github.com/spencerlyon2/hugo_gh_blog/blob/master/deploy.sh[deploy scripts], including http://heiber.im/post/switching-to-hugo/[this one] for deploying to personal or org pages rather than project pages.
+I have checked out a couple of https://github.com/spencerlyon2/hugo_gh_blog/blob/master/deploy.sh[deploy scripts] as well, including http://heiber.im/post/switching-to-hugo/[this one] for deploying to personal or org pages rather than project pages.
 
 image::netlifyfailurescale.png[]
 
@@ -19,11 +21,11 @@ image::netlifyfailurescale.png[]
 
 In the case of Netflify and http://harmonious-advertisement.surge.sh/[Surge], the deploy succeeds, but the theme is missing. Just raw HTML, though 	there are folders and files for CCS, JS and SASS.  
 
-When I build the site with `hugo --theme=ghostwriter` and upload it to my local Web server, same problem. I should not need to specify the stylesheet as it is in my `config.toml`
+When I build the site with `hugo --theme=ghostwriter` and upload it to my local Web server, same problem. 
+
+I should not need to specify the stylesheet as it is in my `config.toml`
 
 Stylesheets and other elements of style are present in the deployed `public/` folder but the theme does not load. 
-
-image::surgetogringolalia.png[]
 
 A fellow sufferer suggests removing the `.git` folder from the `themes/ghostwriter` folder.
 
@@ -35,6 +37,34 @@ I copy the `gringolalia` folder into one called `glossalia`, remove the `.git` f
 
 I really have to stop floundering and draw up a plan of attack. Hugo is a great tool with a wealth of themes to adapt and study, but I need to have time to actually write in https://brasilianas.github.io/[these writing spaces I keep setting up for myself]. 
 
-Ghostwriter in Hugo is not *so* fantastic that I just have to have it in my portfolio.
+Ghostwriter in Hugo is not *so* fantastic that I just have to have it in my portfolio. But I do like it.
 
-I want to write criticism and essays in the genre of Camus and a cheap spy novel about money laundering and Uruguay and Paraguay. I have https://brasilianas.github.io/[a thing about Paraguay], this is true.  
+I want to write criticism and essays in the genre of Camus and a cheap spy novel about money laundering and Uruguay and Paraguay. I have https://brasilianas.github.io/[a thing about Paraguay], this is true.  I explain it https://gringolalia.surge.sh/2016/09/07/porque-sambodia/[here, in Portuguese]. I have decided to write all my front end development and design notes in Portuguese, for the practice. 
+
+=== Update: Surge and My Urge to Merge
+
+image::surgetogringolalia.png[Urge to Surge]
+
+Okay, the second time through the list of third-party deploy options I discover that http://griongolalia.surge.sh[Surge] is the answer to my need to post sites to URLs that I can show to clients. 
+
+Surge totally rocks. `npm install --global surge` and then just plain `surge` in your project directory. 
+
+Prompts you for the folder to push and the subdomain and **bazunga**!
+
+What is their business model, I wonder?
+
+But this solution does not let me clone and push from a clone repo another computer, like the one in the https://en.wikipedia.org/wiki/Cancer_Ward[Cancer Ward] (Раковый Корпус). So I cannot push things like theme changes with version control. Handy to be able to check out your homework during your rehab down time, even if the Window XP machine -- you heard right -- is agonizingly slow.
+
+http://prose.io/#bretonio[Prose.io] is one way to work from remote locations: Brazilian LAN houses or a laptop in a café or a chic *padaria* with WiFi or such like. But then you get those problems when you `git pull`. I really need to study `git` more systematically. 
+
+Is there any online courseware on this subject? 
+
+https://github.com/github/training-kit[Of course there is]! 
+
+Forking to bretonio ...
+
+I audited https://www.coursetalk.com/providers/coursera/courses/social-network-analysis[a great Coursera course] last year on social network analysis and visualization with https://gephi.org/[Gephi]. 
+
+I was running my own crawls using http://www.cwr.cl/projects/WIRE/doc/[WIRE], https://tupiwire.wordpress.com/2014/05/01/spidermen-wire-pajek/[churning the data in Pajek], and visualizing the results. 
+
+A big waste of my potentially productive -- money-earning --time, but I enjoyed it a lot.  One of these days I will look into link analysis with http://wiki.apache.org/nutch/NewScoring[Nutch], but for the time being I am busy enough with rehab, writing and studying the fabrication of sites. 
