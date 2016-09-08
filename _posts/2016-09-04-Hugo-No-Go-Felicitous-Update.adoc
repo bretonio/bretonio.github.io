@@ -3,9 +3,9 @@
 
 My Hugo experience has been really frustrating. I guess https://discuss.gohugo.io/t/i-am-really-confused-as-to-how-to-deploy-hugo-with-github/3669/7[I am not the only one].
 
->>You can skip all the whining and scroll down to where Surge turns out to be a very satisfactory partial solution. --Editor
+**(You can skip all the whining and scroll down to where Surge turns out to be a very satisfactory partial solution. --Editor)**
 
-With Hugo, I am able to build and serve locally all manner of remarkable sites with ease. It rocks. It rolls.
+With Hugo, I am able to build and serve locally all manner of remarkable sites with ease. It rocks. It rolls. It has an great big and extremely creative community.
 
 But I just cannot seem to deploy these sites, to GitHub Pages or anywhere else.
 
